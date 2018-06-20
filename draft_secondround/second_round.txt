@@ -1,0 +1,680 @@
+,,,,,,,,,,,,,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Shooting,Advanced,Advanced
+Rk,Year,Lg,Rd,Pk,Tm,Player,Age,Pos,Born,College,From,To,G,MP,PTS,TRB,AST,STL,BLK,FG%,2P%,3P%,FT%,WS,WS/48
+1,1986,NBA,2,46,PHO,Jeff Hornacek\hornaje01,23.051,G,us,Iowa State University,1987,2000,1077,31.5,14.5,3.4,4.9,1.4,0.2,.496,.515,.403,.877,108.9,.154
+2,1999,NBA,2,57,SAS,Manu Ginobili\ginobma01,21.342,G,ar,,2003,2018,1057,25.4,13.3,3.5,3.8,1.3,0.3,.447,.498,.369,.827,106.4,.190
+3,1998,NBA,2,32,SEA,Rashard Lewis\lewisra02,18.325,F,us,,1999,2014,1049,32.0,14.9,5.2,1.7,1.1,0.5,.452,.491,.386,.805,90.9,.130
+4,1986,NBA,2,27,DET,Dennis Rodman\rodmade01,25.041,F,us,Southeastern Oklahoma State University,1987,2000,911,31.7,7.3,13.1,1.8,0.7,0.6,.521,.542,.231,.584,89.8,.150
+5,1992,NBA,2,29,NJN,P.J. Brown\brownpj01,22.259,F-C,us,Louisiana Tech University,1994,2008,1089,31.1,9.1,7.7,1.5,0.8,1.0,.460,.463,.136,.794,89.8,.128
+6,1989,NBA,2,36,POR,Clifford Robinson\robincl02,22.199,F-C,us,University of Connecticut,1990,2007,1380,30.8,14.2,4.6,2.2,1.0,1.0,.438,.459,.356,.689,89.7,.101
+7,2006,NBA,2,47,UTA,Paul Millsap\millspa01,21.143,F,us,Louisiana Tech University,2007,2018,875,29.5,14.2,7.4,2.3,1.3,1.0,.491,.513,.330,.734,82.1,.153
+8,2002,NBA,2,35,CLE,Carlos Boozer\boozeca01,20.223,F-C,de,Duke University,2003,2015,861,31.2,16.2,9.5,2.2,0.9,0.4,.521,.522,.071,.722,80.3,.143
+9,2008,NBA,2,35,LAC,DeAndre Jordan\jordade01,19.345,C,us,Texas A&M University,2009,2018,750,28.1,9.4,10.7,0.7,0.6,1.7,.673,.674,.091,.446,76.3,.174
+10,2007,NBA,2,48,LAL,Marc Gasol\gasolma01,22.155,C,es,,2009,2018,716,33.7,15.2,7.7,3.3,0.9,1.5,.487,.499,.344,.779,73.5,.146
+11,1986,NBA,2,25,DAL,Mark Price\pricema01,22.128,G,us,Georgia Institute of Technology,1987,1998,722,29.9,15.2,2.6,6.7,1.2,0.1,.472,.501,.402,.904,71.1,.158
+12,1985,NBA,2,45,CLE,Hot Rod Williams\williho01,22.319,F-C,us,Tulane University,1987,1999,887,29.7,11.0,6.8,1.8,0.8,1.6,.480,.481,.105,.726,70.5,.129
+13,2003,NBA,2,51,NJN,Kyle Korver\korveky01,22.106,G-F,us,Creighton University,2004,2018,1104,26.2,9.9,3.0,1.8,0.7,0.3,.444,.464,.431,.881,68.7,.114
+14,1988,NBA,2,33,MIA,Grant Long\longgr01,22.114,F,us,Eastern Michigan University,1989,2003,1003,28.4,9.5,6.1,1.7,1.2,0.4,.467,.474,.283,.761,60.1,.101
+15,2005,NBA,2,57,PHO,Marcin Gortat\gortama01,21.137,C-F,pl,,2008,2018,759,26.3,10.2,8.1,1.1,0.5,1.1,.552,.553,.150,.678,59.9,.144
+16,1990,NBA,2,29,CHI,Toni Kukoc\kukocto01,21.287,F,hr,,1994,2006,846,26.3,11.6,4.2,3.7,1.0,0.3,.447,.488,.335,.729,59.6,.129
+17,1990,NBA,2,45,IND,Antonio Davis\davisan01,21.244,F-C,us,University of Texas at El Paso,1994,2006,903,28.9,10.0,7.5,1.1,0.5,1.0,.448,.449,.087,.727,59.6,.110
+18,2004,NBA,2,43,NYK,Trevor Ariza\arizatr01,18.364,F,us,University of California Los Angeles,2005,2018,942,29.5,10.5,4.8,2.1,1.5,0.3,.424,.481,.353,.723,57.4,.099
+19,1985,NBA,2,35,SAS,Tyrone Corbin\corbity01,22.175,G-F,us,DePaul University,1986,2001,1065,26.0,9.2,4.7,1.8,1.2,0.3,.456,.470,.299,.791,56.5,.098
+20,1993,NBA,2,37,LAL,Nick Van Exel\vanexni01,21.221,G,us,University of Cincinnati,1994,2006,880,32.9,14.4,2.9,6.6,0.8,0.1,.405,.433,.357,.794,55.9,.093
+21,2000,NBA,2,43,MIL,Michael Redd\reddmi01,20.314,G,us,Ohio State University,2001,2012,629,32.0,19.0,3.8,2.1,0.9,0.1,.447,.475,.380,.838,55.9,.134
+22,2001,NBA,2,38,DET,Mehmet Okur\okurme01,22.038,C-F,tr,,2003,2012,634,29.1,13.5,7.0,1.7,0.5,0.7,.458,.484,.375,.797,54.7,.142
+23,2005,NBA,2,45,PHI,Louis Williams\willilo02,18.249,G,us,,2006,2018,861,24.4,13.7,2.1,3.1,0.9,0.2,.420,.461,.348,.834,54.3,.124
+24,2005,NBA,2,56,DET,Amir Johnson\johnsam01,18.063,F-C,us,,2006,2018,819,21.7,7.2,5.5,1.2,0.6,1.0,.572,.588,.337,.670,54.2,.146
+25,1998,NBA,2,41,HOU,Cuttino Mobley\moblecu01,22.302,G,us,University of Rhode Island,1999,2009,747,37.0,16.0,3.9,2.7,1.2,0.4,.433,.455,.378,.835,52.2,.091
+26,2001,NBA,2,31,GSW,Gilbert Arenas\arenagi01,19.177,G,us,University of Arizona,2002,2012,552,35.1,20.7,3.9,5.3,1.6,0.2,.421,.458,.351,.803,51.3,.127
+27,1986,NBA,2,29,CLE,Johnny Newman\newmajo01,22.207,F-G,us,University of Richmond,1987,2002,1159,24.5,11.0,2.2,1.5,0.9,0.2,.461,.489,.336,.810,50.3,.085
+28,2003,NBA,2,42,ORL,Zaza Pachulia\pachuza01,19.141,C,ge,,2004,2018,1030,20.7,6.9,5.9,1.3,0.7,0.4,.470,.473,.000,.750,50.3,.113
+29,1986,NBA,2,30,SEA,Nate McMillan\mcmilna01,21.323,G-F,us,North Carolina State University,1987,1998,796,25.7,5.9,4.0,6.1,1.9,0.4,.443,.470,.343,.650,50.2,.118
+30,2008,NBA,2,45,SAS,Goran Dragic\dragigo01,22.057,G,si,,2009,2018,722,28.0,13.7,3.1,4.8,1.0,0.2,.469,.510,.364,.762,49.4,.117
+31,1993,NBA,2,45,UTA,Bryon Russell\russebr01,22.187,F,us,California State University Long Beach,1994,2006,841,23.5,7.9,3.5,1.3,1.0,0.2,.431,.465,.369,.750,47.4,.115
+32,1988,NBA,2,50,PHO,Steve Kerr\kerrst01,22.280,G,lb,University of Arizona,1989,2003,910,17.8,6.0,1.2,1.8,0.5,0.1,.479,.494,.454,.864,47.2,.140
+33,2004,NBA,2,30,ORL,Anderson Varejao\varejan01,21.275,F-C,br,,2005,2017,627,24.0,7.3,7.2,1.2,0.9,0.6,.510,.516,.024,.631,46.4,.148
+34,2002,NBA,2,56,SAS,Luis Scola\scolalu01,22.062,F,ar,,2008,2017,743,25.6,12.0,6.7,1.6,0.6,0.3,.493,.499,.339,.740,45.7,.115
+35,2011,NBA,2,60,SAC,Isaiah Thomas\thomais02,22.141,G,us,University of Washington,2012,2018,473,29.8,18.9,2.6,5.1,0.9,0.1,.439,.488,.361,.877,45.6,.155
+36,1995,NBA,2,43,MIL,Eric Snow\snower01,22.070,G,us,Michigan State University,1996,2008,846,27.3,6.8,2.5,5.0,1.2,0.1,.424,.436,.208,.763,43.4,.090
+37,2002,NBA,2,46,MEM,Matt Barnes\barnema02,22.114,F,us,University of California Los Angeles,2004,2017,929,23.6,8.2,4.6,1.8,0.8,0.5,.436,.522,.335,.745,42.8,.093
+38,2005,NBA,2,33,NOH,Brandon Bass\bassbr01,20.064,F,us,Louisiana State University,2006,2017,758,21.6,8.7,4.5,0.8,0.4,0.6,.499,.502,.207,.832,42.8,.125
+39,2005,NBA,2,40,GSW,Monta Ellis\ellismo01,19.250,G,us,,2006,2017,833,34.8,17.8,3.5,4.6,1.7,0.3,.451,.482,.314,.772,41.9,.069
+40,2005,NBA,2,36,MIL,Ersan Ilyasova\ilyaser01,18.049,F,tr,,2007,2018,678,24.5,11.0,5.9,1.2,0.7,0.4,.443,.481,.366,.770,41.8,.121
+41,1988,NBA,2,29,SAC,Vinny Del Negro\delnevi01,21.329,G,us,North Carolina State University,1989,2002,771,24.9,9.1,2.3,3.2,0.7,0.1,.475,.489,.359,.840,40.6,.101
+42,1990,NBA,2,48,PHO,Cedric Ceballos\cebalce01,20.334,F,us,California State University Fullerton,1991,2001,609,24.2,14.3,5.3,1.2,0.7,0.3,.500,.524,.309,.753,40.4,.132
+43,2003,NBA,2,47,UTA,Mo Williams\willima01,20.194,G,us,University of Alabama,2004,2016,818,29.2,13.2,2.8,4.9,0.9,0.1,.434,.460,.378,.871,40.0,.080
+44,2012,NBA,2,35,GSW,Draymond Green\greendr01,22.122,F,us,Michigan State University,2013,2018,467,27.7,9.3,6.9,4.6,1.4,1.1,.438,.505,.327,.707,39.0,.145
+45,2003,NBA,2,45,CHI,Matt Bonner\bonnema01,23.087,F,us,University of Florida,2005,2016,792,16.9,5.8,3.0,0.7,0.4,0.3,.464,.516,.414,.780,38.5,.138
+46,1997,NBA,2,42,PHO,Stephen Jackson\jacksst02,19.086,F-G,us,Butler County Community College,2001,2014,858,31.9,15.1,3.9,3.1,1.3,0.4,.414,.456,.333,.798,36.1,.063
+47,2007,NBA,2,31,SEA,Carl Landry\landrca01,23.288,F,us,Purdue University,2008,2016,513,22.5,10.8,4.9,0.7,0.4,0.4,.535,.537,.300,.785,35.9,.149
+48,1998,NBA,2,31,LAL,Ruben Patterson\patteru01,22.334,F,us,University of Cincinnati,1999,2008,649,24.6,10.7,4.2,1.8,1.2,0.4,.517,.530,.179,.641,35.1,.106
+49,1985,NBA,2,47,NYK,Gerald Wilkins\wilkige01,21.286,G-F,us,University of Tennessee at Chattanooga,1986,1999,900,29.0,13.0,2.9,3.0,1.0,0.2,.450,.469,.316,.745,33.9,.062
+50,2009,NBA,2,46,CLE,Danny Green\greenda02,22.009,G-F,us,University of North Carolina,2010,2018,540,25.1,8.8,3.4,1.6,1.0,0.8,.418,.454,.395,.815,33.3,.118
+51,1989,NBA,2,28,MIA,Sherman Douglas\douglsh01,22.291,G,us,Syracuse University,1990,2001,765,27.6,11.0,2.2,5.9,1.0,0.1,.484,.504,.267,.678,32.9,.075
+52,1998,NBA,2,39,MIL,Rafer Alston\alstora01,21.340,G,us,California State University Fresno,2000,2010,671,28.9,10.1,2.8,4.8,1.2,0.2,.383,.407,.354,.729,32.9,.081
+53,2008,NBA,2,34,MIN,Mario Chalmers\chalmma01,22.044,G,us,University of Kansas,2009,2018,646,26.7,8.9,2.5,3.7,1.5,0.2,.417,.475,.351,.793,32.3,.090
+54,2010,NBA,2,33,SAC,Hassan Whiteside\whiteha01,21.016,C,us,Marshall University,2011,2018,271,26.8,13.6,11.4,0.5,0.6,2.4,.575,.575,1.000,.627,30.5,.202
+55,1994,NBA,2,46,MIL,Voshon Lenard\lenarvo01,21.051,G,us,University of Minnesota,1996,2006,565,27.2,11.9,2.8,2.1,0.8,0.2,.415,.436,.384,.787,29.6,.093
+56,2005,NBA,2,34,UTA,C.J. Miles\milescj01,18.076,G-F,us,,2006,2018,785,20.7,9.8,2.4,1.1,0.7,0.3,.414,.465,.361,.809,29.3,.086
+57,2003,NBA,2,38,WAS,Steve Blake\blakest01,23.126,G,us,University of Maryland,2004,2016,870,23.9,6.5,2.1,4.0,0.7,0.1,.401,.420,.383,.779,29.1,.067
+58,2011,NBA,2,38,HOU,Chandler Parsons\parsoch01,22.246,F,us,University of Florida,2012,2018,410,31.0,13.1,4.6,2.8,0.9,0.4,.466,.524,.377,.708,29.1,.110
+59,2007,NBA,2,56,MIL,Ramon Sessions\sessira01,21.083,G,us,University of Nevada Reno,2008,2018,691,23.3,10.3,2.7,4.1,0.7,0.1,.434,.450,.316,.791,28.8,.086
+60,1993,NBA,2,28,DAL,Lucious Harris\harrilu01,22.200,G,us,California State University Long Beach,1994,2005,800,19.6,7.2,2.3,1.4,0.7,0.1,.426,.448,.348,.790,28.7,.088
+61,1988,NBA,2,28,PHO,Andrew Lang\langan01,22.006,C,us,University of Arkansas,1989,2000,737,20.8,6.0,4.8,0.6,0.5,1.5,.470,.471,.250,.744,28.6,.089
+62,1988,NBA,2,48,DET,Micheal Williams\willimi02,21.346,G,us,Baylor University,1989,1999,413,25.2,11.0,2.5,5.8,1.7,0.2,.464,.481,.227,.868,28.5,.132
+63,1992,NBA,2,42,MIA,Matt Geiger\geigema01,22.293,C,us,Georgia Institute of Technology,1993,2002,552,22.1,9.2,5.7,0.7,0.6,0.6,.499,.504,.232,.728,28.4,.112
+64,1995,NBA,2,52,IND,Fred Hoiberg\hoibefr01,22.261,G,us,Iowa State University,1996,2005,541,18.4,5.4,2.7,1.6,0.8,0.1,.431,.456,.396,.854,27.6,.133
+65,1988,NBA,2,47,DEN,Vernon Maxwell\maxweve01,22.295,G,us,University of Florida,1989,2001,855,28.4,12.8,2.6,3.4,1.1,0.2,.398,.450,.320,.733,27.4,.054
+66,1990,NBA,2,40,SAC,Bimbo Coles\colesbi01,22.071,G,us,Virginia Polytechnic Institute and State University,1991,2004,852,23.8,7.8,2.1,3.9,0.9,0.2,.425,.455,.267,.811,27.4,.065
+67,1991,NBA,2,45,MIL,Bobby Phills\phillbo01,21.193,G,us,Southern University and A&M College,1992,2000,467,28.7,11.0,3.1,2.7,1.3,0.3,.443,.456,.390,.738,27.2,.097
+68,2014,NBA,2,41,DEN,Nikola Jokic\jokicni01,19.132,C-F,rs,,2016,2018,228,27.3,14.9,9.1,4.4,1.0,0.7,.530,.572,.366,.832,27.1,.209
+69,1996,NBA,2,44,CHH,Malik Rose\rosema01,21.221,F,us,Drexel University,1997,2009,813,16.5,6.2,4.1,0.8,0.6,0.4,.437,.442,.177,.743,26.5,.095
+70,2008,NBA,2,37,MIL,Luc Mbah a Moute\mbahalu01,21.296,F,cm,University of California Los Angeles,2009,2018,682,23.4,6.4,4.1,0.9,0.9,0.4,.455,.478,.336,.661,25.9,.078
+71,2003,NBA,2,49,IND,James Jones\jonesja02,22.270,F-G,us,University of Miami,2004,2017,709,15.7,5.2,1.8,0.5,0.3,0.3,.401,.402,.401,.840,25.2,.109
+72,2004,NBA,2,38,CHI,Chris Duhon\duhonch01,21.303,G,us,Duke University,2005,2013,606,25.6,6.5,2.3,4.4,0.8,0.1,.393,.426,.363,.784,25.0,.077
+73,2006,NBA,2,35,TOR,P.J. Tucker\tuckepj01,21.059,F,us,University of Texas at Austin,2007,2018,500,27.8,7.4,5.7,1.5,1.2,0.3,.426,.471,.356,.748,25.0,.086
+74,2012,NBA,2,39,DET,Khris Middleton\middlkh01,20.326,F-G,us,Texas A&M University,2013,2018,378,31.8,15.1,4.1,3.0,1.4,0.2,.454,.484,.391,.877,24.9,.099
+75,1986,NBA,2,33,SAS,Kevin Duckworth\duckwke01,22.082,C,us,Eastern Illinois University,1987,1997,684,25.5,11.8,5.8,0.9,0.5,0.5,.468,.469,.208,.736,24.7,.068
+76,2000,NBA,2,38,HOU,Eduardo Najera\najered01,23.358,F,mx,University of Oklahoma,2001,2012,619,18.1,4.9,3.7,0.8,0.7,0.4,.481,.509,.311,.671,24.7,.106
+77,2012,NBA,2,34,CLE,Jae Crowder\crowdja01,21.363,F,us,Marquette University,2013,2018,463,23.7,9.0,3.8,1.4,1.0,0.3,.429,.511,.341,.791,24.3,.106
+78,2009,NBA,2,41,MIL,Jodie Meeks\meeksjo01,21.314,G,us,University of Kentucky,2010,2018,531,22.6,9.3,2.1,1.1,0.8,0.1,.418,.469,.372,.879,24.0,.096
+79,2009,NBA,2,55,POR,Patrick Mills\millspa02,20.323,G,au,Saint Mary's College of California,2010,2018,523,18.3,8.2,1.6,2.3,0.6,0.1,.432,.477,.390,.848,24.0,.120
+80,1996,NBA,2,54,UTA,Shandon Anderson\andersh01,22.183,F-G,us,University of Georgia,1997,2006,719,22.2,7.4,3.1,1.4,0.8,0.3,.457,.498,.316,.739,23.6,.071
+81,1994,NBA,2,35,SAC,Michael Smith\smithmi02,22.098,F,us,Providence College,1995,2001,449,23.5,5.6,7.1,1.5,0.8,0.6,.538,.539,.143,.529,23.4,.107
+82,1997,NBA,2,39,SAC,Anthony Johnson\johnsan02,22.272,G,us,College of Charleston,1998,2010,793,19.6,5.6,1.7,2.9,0.7,0.1,.414,.431,.356,.745,23.2,.072
+83,1996,NBA,2,30,HOU,Othella Harrington\harriot01,22.152,F-C,us,Georgetown University,1997,2008,709,19.6,7.4,4.4,0.6,0.3,0.4,.505,.507,.000,.738,23.1,.080
+84,1996,NBA,2,37,DEN,Jeff McInnis\mcinnje01,21.253,G,us,University of North Carolina,1997,2008,576,27.7,9.4,2.0,4.4,0.6,0.1,.431,.454,.328,.796,23.1,.070
+85,2009,NBA,2,33,POR,Dante Cunningham\cunnida01,22.070,F,us,Villanova University,2010,2018,651,21.4,6.1,3.8,0.7,0.7,0.5,.469,.494,.332,.645,23.0,.079
+86,2009,NBA,2,39,DET,Jonas Jerebko\jerebjo01,22.121,F,se,,2010,2018,562,18.0,6.2,4.0,0.8,0.5,0.2,.457,.502,.363,.766,22.4,.107
+87,1987,NBA,2,39,PHI,Vincent Askew\askewvi01,21.119,G-F,us,University of Memphis,1988,1998,467,20.0,7.1,2.5,2.2,0.7,0.2,.479,.499,.300,.754,22.1,.113
+88,1992,NBA,2,41,HOU,Popeye Jones\jonespo01,22.013,F,us,Murray State University,1994,2004,535,23.5,7.0,7.4,1.3,0.6,0.3,.447,.451,.281,.751,22.0,.084
+89,1997,NBA,2,47,POR,Alvin Williams\willial02,22.329,G,us,Villanova University,1998,2007,460,27.4,9.0,2.5,4.1,1.2,0.2,.421,.443,.313,.760,21.7,.082
+90,1993,NBA,2,47,SAS,Chris Whitney\whitnch01,21.274,G,us,Clemson University,1994,2004,579,17.4,6.5,1.4,2.8,0.6,0.1,.395,.427,.361,.875,21.2,.101
+91,1998,NBA,2,53,DAL,Greg Buckner\buckngr01,21.286,G,us,Clemson University,2000,2009,570,19.1,5.0,2.8,1.3,0.8,0.2,.450,.496,.334,.757,20.9,.092
+92,2008,NBA,2,36,POR,Omer Asik\asikom01,21.363,C,tr,,2011,2018,471,19.6,5.3,7.1,0.6,0.4,0.7,.528,.528,.000,.551,20.9,.109
+93,2002,NBA,2,53,MIA,Rasual Butler\butlera01,23.040,F-G,us,La Salle University,2003,2016,809,21.3,7.5,2.4,0.8,0.4,0.5,.403,.437,.362,.747,20.8,.058
+94,2003,NBA,2,43,MIL,Keith Bogans\boganke01,23.050,G-F,us,University of Kentucky,2004,2014,671,21.6,6.3,2.7,1.3,0.6,0.1,.394,.442,.353,.716,20.4,.068
+95,2001,NBA,2,42,SEA,Bobby Simmons\simmobo01,21.030,G-F,us,DePaul University,2002,2012,466,24.7,9.0,3.8,1.5,0.8,0.2,.437,.452,.396,.823,20.1,.084
+96,2000,NBA,2,37,MIA,Eddie House\houseed01,22.051,G,us,Arizona State University,2001,2011,717,17.3,7.5,1.7,1.6,0.7,0.1,.409,.423,.390,.851,20.0,.077
+97,2009,NBA,2,43,MIA,Marcus Thornton\thornma01,22.026,G,us,Louisiana State University,2010,2017,483,23.4,11.9,2.8,1.4,0.8,0.1,.425,.471,.358,.830,20.0,.085
+98,2009,NBA,2,42,LAL,Patrick Beverley\beverpa01,20.353,G,us,University of Arkansas,2013,2018,302,28.6,9.4,4.1,3.4,1.3,0.4,.413,.457,.376,.767,19.9,.111
+99,1994,NBA,2,30,MIN,Howard Eisley\eisleho01,21.212,G,us,Boston College,1995,2006,786,20.4,6.5,1.7,3.5,0.7,0.1,.407,.434,.350,.827,19.5,.058
+100,2005,NBA,2,50,BOS,Ryan Gomes\gomesry01,22.306,F,us,Providence College,2006,2014,487,27.6,10.1,4.6,1.5,0.7,0.2,.445,.473,.349,.799,19.4,.069
+101,1995,NBA,2,34,GSW,Andrew DeClercq\declean01,22.152,F-C,us,University of Florida,1996,2005,587,16.8,4.8,4.2,0.6,0.7,0.5,.507,.507,.000,.621,19.3,.094
+102,2001,NBA,2,40,SEA,Earl Watson\watsoea01,22.021,G,us,University of California Los Angeles,2002,2014,878,22.2,6.4,2.3,4.4,1.0,0.2,.411,.449,.324,.703,19.2,.047
+103,2005,NBA,2,37,LAL,Ronny Turiaf\turiaro01,22.172,F,mq,Gonzaga University,2006,2015,473,17.0,4.7,3.7,1.3,0.4,1.3,.533,.535,.000,.636,19.2,.115
+104,2005,NBA,2,49,WAS,Andray Blatche\blatcan01,18.315,F,us,,2006,2014,564,22.1,10.1,5.4,1.4,0.9,0.8,.467,.478,.237,.725,19.2,.074
+105,1989,NBA,2,43,CLE,Chucky Brown\brownch01,21.124,F,us,North Carolina State University,1990,2002,694,17.2,5.9,3.1,0.8,0.3,0.3,.491,.499,.227,.699,19.0,.076
+106,1993,NBA,2,30,WSB,Gheorghe Muresan\muresgh01,22.142,C,ro,,1994,2000,307,21.9,9.8,6.4,0.5,0.6,1.5,.573,.574,.000,.644,19.0,.136
+107,2009,NBA,2,37,SAS,DeJuan Blair\blairde01,20.069,F-C,us,University of Pittsburgh,2010,2016,424,16.6,6.8,5.1,0.8,0.7,0.3,.524,.526,.000,.608,19.0,.129
+108,1997,NBA,2,54,SEA,Mark Blount\blounma01,21.213,C,us,University of Pittsburgh,2001,2009,605,23.1,8.2,4.6,0.8,0.5,0.8,.504,.507,.359,.723,18.8,.065
+109,2008,NBA,2,31,MIN,Nikola Pekovic\pekovni01,22.180,C,me,,2011,2016,271,24.9,12.6,6.7,0.7,0.5,0.6,.518,.518,,.760,18.8,.134
+110,2007,NBA,2,35,SEA,Glen Davis\davisgl01,21.183,F-C,us,Louisiana State University,2008,2015,514,21.1,8.0,4.4,0.9,0.7,0.3,.447,.451,.182,.700,18.6,.082
+111,1990,NBA,2,47,PHI,Derek Strong\stronde01,22.144,F,us,Xavier University,1992,2001,456,18.7,6.8,4.9,0.6,0.4,0.2,.430,.436,.180,.786,18.5,.104
+112,2007,NBA,2,37,POR,Josh McRoberts\mcrobjo01,20.125,F,us,Duke University,2008,2018,433,19.1,5.4,3.9,2.1,0.5,0.4,.463,.514,.340,.705,18.5,.107
+113,1989,NBA,2,38,MIN,Doug West\westdo01,22.037,G-F,us,Villanova University,1990,2001,676,24.6,9.6,2.5,1.9,0.7,0.3,.481,.491,.191,.801,17.7,.051
+114,1990,NBA,2,38,SEA,Jud Buechler\buechju01,22.013,F-G,us,University of Arizona,1991,2002,720,11.7,3.3,1.8,0.8,0.4,0.2,.433,.464,.366,.633,16.5,.094
+115,1992,NBA,2,30,DAL,Sean Rooks\rooksse01,22.294,C,us,University of Arizona,1993,2004,749,18.1,6.2,3.8,0.8,0.3,0.7,.459,.461,.091,.699,16.2,.057
+116,2006,NBA,2,36,MIN,Craig Smith\smithcr01,22.236,F,us,Boston College,2007,2012,403,16.9,7.6,3.9,0.8,0.5,0.2,.553,.560,.037,.661,16.0,.113
+117,2006,NBA,2,42,CLE,Daniel Gibson\gibsoda01,20.126,G,us,University of Texas at Austin,2007,2013,397,23.5,7.8,2.0,2.0,0.6,0.2,.402,.397,.407,.780,16.0,.082
+118,2002,NBA,2,50,BOS,Darius Songaila\songada01,24.138,F,lt,Wake Forest University,2004,2011,495,18.6,6.9,3.4,1.2,0.7,0.2,.499,.501,.158,.844,15.9,.083
+119,2002,NBA,2,34,MIL,Dan Gadzuric\gadzuda01,24.150,C,nl,University of California Los Angeles,2003,2012,527,14.8,4.7,4.4,0.4,0.5,0.9,.500,.501,.000,.498,15.8,.097
+120,2012,NBA,2,49,ORL,Kyle O'Quinn\oquinky01,22.100,F-C,us,Norfolk State University,2013,2018,398,15.2,5.8,4.9,1.3,0.4,1.0,.518,.535,.223,.745,15.8,.126
+121,2001,NBA,2,53,UTA,Jarron Collins\collija03,22.213,F-C,us,Stanford University,2002,2011,542,15.8,3.9,2.9,0.8,0.3,0.2,.455,.456,.000,.699,15.7,.088
+122,1986,NBA,2,28,CHI,Larry Krystkowiak\krystla01,21.272,F-C,us,University of Montana,1987,1997,420,21.7,8.2,4.9,1.2,0.6,0.1,.457,.461,.139,.795,15.6,.082
+123,1990,NBA,2,43,SAS,Tony Massenburg\masseto01,22.337,F,us,University of Maryland,1991,2005,683,18.0,6.2,4.3,0.4,0.4,0.5,.470,.471,.091,.705,15.6,.061
+124,2010,NBA,2,40,IND,Lance Stephenson\stephla01,19.297,G-F,us,University of Cincinnati,2011,2018,440,24.4,8.8,4.3,3.0,0.7,0.1,.446,.496,.303,.685,15.5,.069
+125,2000,NBA,2,44,DET,Brian Cardinal\cardibr01,23.063,F,us,Purdue University,2001,2012,456,14.2,4.6,2.3,1.0,0.6,0.2,.408,.432,.372,.861,15.4,.114
+126,1987,NBA,2,45,BOS,Brad Lohaus\lohaubr01,22.271,F-C,us,University of Iowa,1988,1998,656,15.8,5.9,2.8,1.1,0.5,0.8,.440,.475,.361,.733,15.2,.070
+127,2012,NBA,2,40,POR,Will Barton\bartowi01,21.179,G,us,University of Memphis,2013,2018,395,22.8,10.4,3.9,2.3,0.7,0.4,.434,.481,.341,.790,15.2,.081
+128,2014,NBA,2,45,CHH,Dwight Powell\poweldw01,22.347,F-C,ca,Stanford University,2015,2018,254,16.7,6.6,4.2,0.8,0.7,0.4,.535,.581,.292,.739,14.9,.170
+129,2006,NBA,2,32,HOU,Steve Novak\novakst01,23.021,F,us,Marquette University,2007,2017,467,12.1,4.7,1.3,0.3,0.2,0.1,.437,.463,.430,.877,14.5,.123
+130,1989,NBA,2,40,BOS,Dino Radja\radjadi01,22.070,F-C,hr,,1994,1997,224,32.6,16.7,8.4,1.6,0.9,1.3,.497,.497,.000,.735,14.3,.094
+131,1987,NBA,2,40,MIL,Winston Garland\garlawi01,22.190,G,us,Missouri State University,1988,1995,511,26.2,9.4,2.8,4.7,1.3,0.2,.430,.440,.281,.830,14.2,.051
+132,1988,NBA,2,38,PHO,Dean Garrett\garrede01,21.219,C,us,Indiana University,1997,2002,359,19.4,4.8,5.0,0.6,0.5,1.0,.480,.480,,.677,14.1,.097
+133,1991,NBA,2,37,LAC,Elliot Perry\perryel01,22.095,G,us,University of Memphis,1992,2002,549,17.3,6.3,1.4,3.1,1.0,0.0,.459,.474,.359,.783,14.0,.071
+134,2009,NBA,2,44,DET,Chase Budinger\budinch01,21.039,F,us,University of Arizona,2010,2016,407,19.7,7.9,3.0,1.2,0.5,0.2,.430,.486,.352,.797,13.9,.083
+135,2001,NBA,2,30,CHI,Trenton Hassell\hassetr01,22.121,G,us,Austin Peay State University,2002,2010,644,25.3,5.8,2.8,1.8,0.4,0.4,.445,.457,.318,.765,13.8,.041
+136,2011,NBA,2,50,PHI,Lavoy Allen\allenla01,22.144,F-C,us,Temple University,2012,2017,388,17.8,4.8,4.8,1.0,0.3,0.6,.471,.474,.133,.682,13.8,.096
+137,1995,NBA,2,58,DET,Don Reid\reiddo01,21.185,F,us,Georgetown University,1996,2003,403,13.3,3.6,2.9,0.4,0.5,0.7,.530,.531,.000,.658,13.7,.123
+138,2003,NBA,2,32,LAL,Luke Walton\waltolu01,23.095,F,us,University of Arizona,2004,2013,564,17.2,4.7,2.8,2.3,0.6,0.2,.429,.459,.326,.715,13.5,.067
+139,1997,NBA,2,37,GSW,Marc Jackson\jacksma02,22.166,C,us,Temple University,2001,2007,387,19.6,8.4,4.3,0.8,0.4,0.3,.446,.448,.226,.814,13.0,.082
+140,2002,NBA,2,31,CHI,Roger Mason\masonro01,21.294,G,us,University of Virginia,2003,2014,518,17.7,6.3,1.7,1.3,0.4,0.1,.408,.435,.383,.866,13.0,.068
+141,2013,NBA,2,31,CLE,Allen Crabbe\crabbal01,21.084,G-F,us,University of California,2014,2018,301,24.4,9.5,2.8,1.2,0.6,0.3,.439,.485,.397,.849,13.0,.085
+142,1994,NBA,2,51,SAC,Lawrence Funderburke\fundela01,23.202,F,us,Ohio State University,1998,2005,318,14.9,6.4,3.6,0.6,0.3,0.3,.506,.510,.118,.675,12.9,.131
+143,2003,NBA,2,41,SEA,Willie Green\greenwi01,21.338,G,us,University of Detroit Mercy,2004,2015,731,20.2,8.3,1.8,1.4,0.5,0.1,.425,.454,.346,.765,12.9,.042
+144,1998,NBA,2,55,DEN,Ryan Bowen\bowenry01,22.222,F,us,University of Iowa,2000,2010,507,12.8,2.6,2.1,0.5,0.6,0.3,.456,.472,.206,.693,12.4,.092
+145,1985,NBA,2,31,WSB,Manute Bol\bolma01,22.251,C,ss,University of Bridgeport,1986,1995,624,18.7,2.6,4.2,0.3,0.2,3.3,.407,.435,.210,.561,12.3,.051
+146,1986,NBA,2,41,DEN,Otis Smith\smithot01,22.144,G-F,us,Jacksonville University,1987,1992,375,20.6,10.5,3.8,1.8,1.0,0.5,.455,.467,.251,.762,12.3,.076
+147,2011,NBA,2,40,MIL,Jon Leuer\leuerjo01,22.045,F,us,University of Wisconsin,2012,2018,336,16.5,6.7,4.0,0.9,0.4,0.3,.478,.512,.335,.769,12.3,.107
+148,2000,NBA,2,30,LAC,Marko Jaric\jaricma01,21.265,G,rs,,2003,2009,447,25.2,7.1,2.7,3.6,1.3,0.3,.404,.428,.344,.730,12.1,.052
+149,1992,NBA,2,32,WSB,Brent Price\pricebr01,23.203,G,us,University of Oklahoma,1993,2002,418,16.8,5.9,1.6,3.0,0.7,0.0,.426,.464,.387,.824,12.0,.082
+150,2006,NBA,2,49,DEN,Leon Powe\powele01,22.163,F,us,University of California,2007,2011,239,13.9,6.2,3.8,0.3,0.3,0.3,.515,.517,.000,.682,12.0,.174
+151,1999,NBA,2,47,PHI,Todd MacCulloch\maccuto01,23.160,C,ca,University of Washington,2000,2003,223,15.4,6.1,4.0,0.5,0.3,0.8,.541,.541,,.642,11.9,.166
+152,2011,NBA,2,55,BOS,E'Twaun Moore\mooreet01,22.120,G,us,Purdue University,2012,2018,462,21.0,7.6,2.0,1.8,0.7,0.2,.455,.489,.385,.740,11.9,.059
+153,1986,NBA,2,44,PHI,David Wingate\wingada01,22.190,G-F,us,Georgetown University,1987,2001,740,17.9,5.6,1.9,1.9,0.8,0.2,.445,.459,.272,.738,11.7,.042
+154,1999,NBA,2,41,DEN,Francisco Elson\elsonfr01,23.128,C,nl,University of California,2004,2012,472,15.3,3.7,3.5,0.6,0.5,0.5,.478,.481,.188,.700,11.7,.078
+155,2012,NBA,2,43,ATL,Mike Scott\scottmi01,23.353,F,us,University of Virginia,2013,2018,357,16.0,7.4,3.0,0.9,0.3,0.1,.476,.540,.351,.762,11.7,.098
+156,2000,NBA,2,33,CHI,Jake Voskuhl\voskuja01,22.245,C,us,University of Connecticut,2001,2009,450,14.3,4.0,3.4,0.5,0.3,0.4,.487,.488,.333,.714,11.6,.087
+157,2011,NBA,2,31,MIA,Bojan Bogdanovic\bogdabo02,22.071,G-F,ba,,2015,2018,318,26.8,12.1,3.2,1.2,0.5,0.1,.452,.513,.378,.863,11.6,.066
+158,1991,NBA,2,31,SAC,Randy Brown\brownra02,23.040,G,us,New Mexico State University,1992,2003,655,17.6,4.8,1.8,2.2,1.1,0.2,.417,.426,.200,.691,11.0,.046
+159,2014,NBA,2,39,PHI,Jerami Grant\grantje01,20.111,F,us,Syracuse University,2015,2018,303,21.9,7.5,3.6,1.0,0.5,1.2,.444,.507,.301,.641,10.9,.079
+160,1988,NBA,2,36,WSB,Ledell Eackles\eacklle01,21.222,G-F,us,University of New Orleans,1989,1998,441,20.2,10.8,2.2,1.7,0.6,0.1,.445,.457,.336,.767,10.8,.058
+161,1989,NBA,2,49,ATL,Haywoode Workman\workmha01,23.161,G,us,Oral Roberts University,1990,2000,359,20.1,5.5,2.3,3.9,1.0,0.1,.419,.444,.323,.764,10.7,.071
+162,2010,NBA,2,39,NYK,Landry Fields\fieldla01,22.002,F,us,Stanford University,2011,2015,255,23.6,6.8,4.3,1.6,0.8,0.2,.473,.520,.332,.666,10.5,.084
+163,2015,NBA,2,32,HOU,Montrezl Harrell\harremo01,21.155,F-C,us,University of Louisville,2016,2018,173,15.8,8.7,3.4,0.9,0.4,0.6,.642,.650,.133,.614,10.5,.184
+164,1998,NBA,2,43,WAS,Jahidi White\whiteja01,22.131,F-C,us,Georgetown University,1999,2005,334,17.7,5.9,5.8,0.2,0.4,1.1,.510,.510,.000,.534,10.4,.085
+165,2006,NBA,2,50,CHA,Ryan Hollins\holliry01,21.266,C,us,University of California Los Angeles,2007,2016,518,11.8,3.7,2.2,0.3,0.2,0.5,.584,.584,.000,.649,10.4,.081
+166,2003,NBA,2,31,CLE,Jason Kapono\kaponja01,22.147,F,us,University of California Los Angeles,2004,2012,509,17.8,6.7,1.7,0.8,0.4,0.0,.442,.446,.434,.835,10.3,.055
+167,2015,NBA,2,40,MIA,Josh Richardson\richajo01,21.288,G,us,University of Tennessee,2016,2018,186,29.1,10.3,3.0,2.4,1.2,0.7,.434,.473,.376,.787,10.1,.090
+168,1996,NBA,2,33,MIL,Moochie Norris\norrimo01,22.340,G,us,University of West Florida,1997,2006,445,17.2,5.1,2.0,2.8,0.7,0.0,.401,.430,.286,.740,10.0,.063
+169,2011,NBA,2,33,DET,Kyle Singler\singlky01,23.055,F,us,Duke University,2013,2018,356,21.9,6.5,2.9,0.8,0.6,0.3,.418,.458,.362,.786,10.0,.062
+170,2013,NBA,2,44,DAL,Mike Muscala\muscami01,22.002,F-C,us,Bucknell University,2014,2018,243,14.7,5.4,3.1,0.9,0.4,0.5,.491,.547,.378,.848,9.5,.127
+171,1994,NBA,2,32,WSB,Jim McIlvaine\mcilvji01,21.339,C,us,Marquette University,1995,2001,401,14.8,2.7,3.1,0.3,0.3,1.7,.446,.450,.100,.551,9.4,.076
+172,2011,NBA,2,34,WAS,Shelvin Mack\macksh01,21.067,G,us,Butler University,2012,2018,399,17.9,6.4,2.0,3.1,0.6,0.1,.427,.477,.326,.740,9.4,.063
+173,1985,NBA,2,40,DAL,Mark Acres\acresma01,22.221,F-C,us,Oral Roberts University,1988,1993,375,16.0,3.6,4.1,0.5,0.4,0.3,.506,.505,.538,.665,9.3,.075
+174,1991,NBA,2,48,UTA,Isaac Austin\austiis01,21.317,C,us,Arizona State University,1992,2002,432,19.3,7.6,4.7,1.2,0.5,0.5,.446,.451,.176,.670,9.2,.053
+175,2013,NBA,2,50,ATL,James Ennis\ennisja01,23.002,F,us,California State University Long Beach,2015,2018,220,20.4,6.4,3.2,0.9,0.6,0.3,.454,.521,.359,.811,9.1,.097
+176,1990,NBA,2,30,MIA,Carl Herrera\herreca01,23.201,F,tt,University of Houston,1992,1999,465,17.3,5.3,3.6,0.6,0.5,0.4,.476,.478,.143,.643,9.0,.054
+177,1998,NBA,2,34,CHI,Shammond Williams\willish01,23.086,G,us,University of North Carolina,1999,2007,325,16.5,5.8,1.6,2.4,0.6,0.0,.401,.427,.366,.798,8.8,.079
+178,2012,NBA,2,37,TOR,Quincy Acy\acyqu01,21.271,F,us,Baylor University,2013,2018,327,16.1,5.0,3.5,0.6,0.4,0.4,.447,.505,.356,.761,8.8,.080
+179,2014,NBA,2,38,DET,Spencer Dinwiddie\dinwisp01,21.086,G,us,University of Colorado,2015,2018,185,23.0,8.9,2.6,4.5,0.7,0.3,.387,.446,.315,.798,8.7,.098
+180,2014,NBA,2,46,WAS,Jordan Clarkson\clarkjo01,22.024,G,us,University of Missouri,2015,2018,301,27.6,14.1,3.2,2.8,0.9,0.1,.443,.488,.339,.807,8.7,.050
+181,2000,NBA,2,49,MIL,Jason Hart\hartja01,22.066,G,us,Syracuse University,2001,2010,341,15.5,4.8,1.7,2.3,0.7,0.1,.417,.433,.315,.788,8.6,.078
+182,2002,NBA,2,42,MIL,Ronald Murray\murraro01,22.338,G,us,Shaw University,2003,2010,487,22.7,9.9,2.1,2.3,0.8,0.2,.414,.450,.304,.725,8.5,.037
+183,1994,NBA,2,54,SEA,Zeljko Rebraca\rebraze01,22.086,C,rs,,2002,2006,215,15.3,5.9,3.2,0.4,0.3,0.7,.527,.527,,.792,8.3,.121
+184,1996,NBA,2,48,PHI,Jamie Feick\feickja01,21.364,C,us,Michigan State University,1997,2001,201,21.5,4.5,7.1,0.7,0.6,0.4,.424,.425,.400,.629,8.2,.091
+185,2010,NBA,2,55,UTA,Jeremy Evans\evansje01,22.249,F,us,Western Kentucky University,2011,2018,250,10.5,3.5,2.6,0.4,0.4,0.5,.569,.583,.231,.687,8.2,.150
+186,2015,NBA,2,37,PHI,Richaun Holmes\holmeri01,21.258,F-C,us,Bowling Green State University,2016,2018,156,16.9,7.4,4.2,1.0,0.5,0.8,.547,.609,.257,.687,8.1,.147
+187,1999,NBA,2,35,WAS,Calvin Booth\boothca01,23.059,C,us,Pennsylvania State University,2000,2009,366,12.2,3.3,2.8,0.4,0.3,1.0,.451,.453,.222,.748,8.0,.086
+188,1999,NBA,2,40,DAL,Gordan Giricek\giricgo01,22.015,G-F,hr,,2003,2008,384,23.0,9.6,2.5,1.5,0.6,0.1,.442,.465,.368,.823,8.0,.044
+189,1999,NBA,2,43,CHH,Lee Nailon\nailole01,24.134,F,us,Texas Christian University,2001,2006,306,19.0,8.6,3.1,1.0,0.4,0.2,.474,.475,.111,.786,8.0,.066
+190,2001,NBA,2,35,NJN,Brian Scalabrine\scalabr01,23.107,F,us,University of Southern California,2002,2012,520,13.0,3.1,2.0,0.8,0.3,0.2,.390,.415,.344,.783,7.6,.054
+191,1990,NBA,2,46,IND,Kenny Williams\willike03,21.023,F,us,Elizabeth City State University,1991,1994,260,11.2,4.8,2.7,0.6,0.3,0.6,.511,.518,.000,.680,7.4,.122
+192,1988,NBA,2,32,NJN,Charles Shackleford\shackch01,22.073,F-C,us,North Carolina State University,1989,1999,303,15.2,5.4,4.8,0.6,0.4,0.5,.483,.485,.000,.654,7.3,.076
+193,2016,NBA,2,36,MIL,Malcolm Brogdon\brogdma01,23.200,G,us,University of Virginia,2017,2018,123,27.8,11.3,3.0,3.8,1.0,0.2,.469,.503,.395,.872,6.9,.096
+194,1995,NBA,2,47,SAC,Tyus Edney\edneyty01,22.139,G,us,University of California Los Angeles,1996,2001,226,21.0,7.6,1.7,4.0,1.0,0.0,.405,.419,.322,.806,6.8,.068
+195,1999,NBA,2,32,CHI,Michael Ruffin\ruffimi01,22.165,F,us,University of Tulsa,2000,2009,414,14.4,1.7,3.9,0.6,0.5,0.5,.407,.409,.000,.459,6.8,.055
+196,2013,NBA,2,39,POR,Jeff Withey\witheje01,23.118,C,us,University of Kansas,2014,2018,206,10.1,3.2,2.5,0.3,0.3,0.8,.525,.537,.143,.716,6.8,.157
+197,1990,NBA,2,51,LAL,Tony Smith\smithto02,22.018,G,us,Marquette University,1991,2001,457,16.0,5.5,1.6,1.9,0.7,0.2,.431,.455,.307,.690,6.7,.044
+198,1988,NBA,2,34,CHH,Tom Tolbert\tolbeto01,22.261,F-C,us,University of Arizona,1989,1995,312,18.2,6.5,4.0,0.9,0.4,0.3,.460,.470,.296,.716,6.6,.056
+199,1997,NBA,2,50,ATL,Chris Crawford\crawfch01,22.049,F,us,Marquette University,1998,2004,252,15.8,6.6,2.2,0.6,0.4,0.3,.437,.453,.347,.824,6.5,.078
+200,1989,NBA,2,37,ORL,Michael Ansley\anslemi01,22.145,F,us,University of Alabama,1990,1992,149,14.4,6.9,4.2,0.4,0.3,0.2,.513,.513,,.722,6.4,.142
+201,1994,NBA,2,52,PHO,Anthony Goldwire\goldwan01,22.302,G,us,University of Houston,1996,2006,266,18.6,6.3,1.3,2.8,0.6,0.0,.407,.419,.386,.792,6.4,.062
+202,2009,NBA,2,31,SAC,Jeff Pendergraph\pendeje02,22.063,F,us,Arizona State University,2010,2016,237,9.8,2.9,2.7,0.4,0.2,0.3,.553,.554,.400,.776,6.3,.131
+203,2007,NBA,2,49,CHI,Aaron Gray\grayaa01,22.208,C,us,University of Pittsburgh,2008,2014,318,12.1,3.4,3.7,0.7,0.3,0.3,.509,.511,.000,.562,6.2,.077
+204,2010,NBA,2,35,WAS,Nemanja Bjelica\bjeline01,22.051,F,rs,,2016,2018,192,18.9,6.1,3.8,1.3,0.6,0.3,.449,.528,.371,.752,6.2,.081
+205,1988,NBA,2,45,LAC,Tom Garrick\garrito01,21.362,G,us,University of Rhode Island,1989,1992,251,18.8,5.4,2.0,3.4,1.1,0.1,.469,.490,.083,.775,5.9,.060
+206,1990,NBA,2,35,WSB,Greg Foster\fostegr01,21.272,F-C,us,University of Texas at El Paso,1991,2003,656,12.2,3.9,2.6,0.5,0.1,0.3,.440,.448,.225,.748,5.6,.033
+207,1997,NBA,2,48,WAS,Predrag Drobnjak\drobnpr01,21.247,C,me,,2002,2005,278,19.9,7.9,3.5,0.8,0.5,0.4,.425,.433,.340,.799,5.6,.048
+208,2005,NBA,2,38,ORL,Travis Diener\dienetr01,23.125,G,us,Marquette University,2006,2010,179,14.9,4.8,1.4,2.4,0.4,0.1,.388,.442,.353,.847,5.6,.102
+209,2012,NBA,2,32,WAS,Tomas Satoransky\satorto01,20.247,G,cz,,2017,2018,130,18.2,5.2,2.4,2.9,0.6,0.2,.493,.524,.406,.760,5.6,.113
+210,2008,NBA,2,40,NJN,Chris Douglas-Roberts\douglch01,21.175,G,us,University of Memphis,2009,2015,222,19.7,7.1,2.1,1.1,0.6,0.2,.439,.465,.329,.831,5.4,.059
+211,1985,NBA,2,37,UTA,Carey Scurry\scurrca01,22.202,F,us,Long Island University,1986,1988,180,13.2,4.7,2.9,1.1,1.0,0.8,.480,.492,.250,.666,5.3,.107
+212,2011,NBA,2,42,IND,Davis Bertans\bertada01,18.227,F,lv,,2017,2018,144,13.2,5.3,1.7,0.8,0.3,0.4,.440,.577,.384,.819,5.3,.135
+213,2009,NBA,2,36,MEM,Sam Young\youngsa01,24.030,F,us,University of Pittsburgh,2010,2013,249,15.9,5.8,2.3,0.7,0.5,0.2,.442,.468,.280,.742,5.2,.063
+214,2013,NBA,2,55,MEM,Joffrey Lauvergne\lauvejo01,21.276,C-F,fr,,2015,2018,208,13.6,5.6,3.8,0.9,0.3,0.2,.479,.520,.285,.719,5.2,.089
+215,2015,NBA,2,35,PHI,Willy Hernangomez\hernawi01,21.034,C,es,,2017,2018,120,15.2,6.9,5.7,1.1,0.5,0.4,.536,.545,.333,.698,5.2,.137
+216,1998,NBA,2,33,SEA,Jelani McCoy\mccoyje01,20.205,C,us,University of California Los Angeles,1999,2008,260,14.7,4.6,3.5,0.5,0.3,0.7,.539,.539,,.490,5.1,.064
+217,2006,NBA,2,33,ATL,Solomon Jones\jonesso01,21.352,F,us,University of South Florida,2007,2014,281,11.0,3.0,2.3,0.4,0.2,0.5,.467,.472,.111,.717,5.0,.078
+218,2008,NBA,2,47,WAS,Bill Walker\walkebi01,20.266,F,us,Kansas State University,2009,2015,181,16.7,6.0,2.2,0.8,0.5,0.1,.446,.560,.369,.760,5.0,.079
+219,2015,NBA,2,46,MIL,Norman Powell\powelno01,22.036,G,us,University of California Los Angeles,2016,2018,195,16.2,6.6,2.0,1.1,0.6,0.2,.427,.498,.324,.801,5.0,.075
+220,1986,NBA,2,39,PHO,Rafael Addison\addisra01,21.335,F-G,us,Syracuse University,1987,1997,379,15.0,5.8,2.1,0.9,0.4,0.2,.449,.472,.282,.772,4.9,.041
+221,2014,NBA,2,33,CLE,Joe Harris\harrijo01,22.299,G,us,University of Virginia,2015,2018,186,19.5,7.6,2.4,1.1,0.4,0.2,.459,.548,.400,.774,4.9,.065
+222,2009,NBA,2,52,IND,A.J. Price\priceaj01,22.267,G,us,University of Connecticut,2010,2015,261,15.1,5.8,1.4,2.2,0.5,0.0,.380,.439,.316,.742,4.7,.058
+223,1991,NBA,2,46,PHO,Richard Dumas\dumasri02,22.043,F,us,Oklahoma State University,1993,1996,102,21.8,10.6,3.4,1.1,1.3,0.5,.509,.514,.231,.694,4.5,.097
+224,2004,NBA,2,37,ATL,Royal Ivey\iveyro01,22.192,G,us,University of Texas at Austin,2005,2014,492,12.5,3.3,1.1,1.0,0.5,0.1,.406,.425,.361,.706,4.5,.035
+225,2009,NBA,2,40,CHA,Derrick Brown\brownde04,21.296,F,us,Xavier University,2010,2012,171,14.9,5.2,2.4,0.7,0.5,0.2,.515,.528,.317,.637,4.5,.085
+226,2013,NBA,2,32,OKC,Alex Abrines\abrinal01,19.335,G-F,es,,2017,2018,143,15.3,5.3,1.4,0.5,0.5,0.1,.394,.433,.380,.874,4.3,.095
+227,1990,NBA,2,31,PHO,Negele Knight\knighne01,23.119,G,us,University of Dayton,1991,1999,276,16.4,6.2,1.3,2.8,0.4,0.1,.436,.447,.263,.730,4.2,.044
+228,1992,NBA,2,43,GSW,Sasha Danilovic\danilsa01,22.124,G,ba,,1996,1997,75,31.1,12.8,2.4,2.0,0.9,0.2,.439,.482,.379,.789,4.2,.087
+229,2012,NBA,2,46,NOH,Darius Miller\milleda01,22.105,F,us,University of Kentucky,2013,2018,184,18.5,5.2,1.6,1.1,0.4,0.2,.435,.507,.394,.856,4.2,.060
+230,2013,NBA,2,34,HOU,Isaiah Canaan\canaais01,22.043,G,us,Murray State University,2014,2018,205,20.3,8.4,1.9,1.8,0.6,0.1,.369,.399,.351,.839,4.2,.048
+231,2007,NBA,2,47,WAS,Dominic McGuire\mcguido01,21.256,F,us,California State University Fresno,2008,2013,342,15.6,2.7,3.4,1.2,0.5,0.5,.419,.423,.188,.658,4.1,.037
+232,1986,NBA,2,26,IND,Greg Dreiling\dreilgr01,23.228,C,us,University of Kansas,1987,1997,474,8.9,2.1,2.1,0.4,0.2,0.3,.467,.469,.333,.649,4.0,.045
+233,1990,NBA,2,42,DEN,Marcus Liberty\liberma01,21.248,F,us,University of Illinois at Urbana-Champaign,1991,1994,267,17.1,7.3,3.5,0.9,0.7,0.3,.417,.426,.340,.664,4.0,.042
+234,1999,NBA,2,34,NJN,Evan Eschmeyer\eschmev01,24.037,C,us,Northwestern University,2000,2003,153,14.0,2.8,3.9,0.5,0.5,0.6,.463,.463,,.621,4.0,.090
+235,2014,NBA,2,40,MIN,Glenn Robinson III\robingl02,20.174,G-F,us,University of Michigan,2015,2018,172,14.7,4.4,2.3,0.6,0.4,0.2,.445,.477,.381,.707,4.0,.077
+236,1995,NBA,2,56,PHO,Chris Carr\carrch01,21.113,G,us,Southern Illinois University,1996,2001,297,15.2,6.7,2.2,1.0,0.3,0.2,.416,.445,.338,.807,3.9,.042
+237,1990,NBA,2,44,MIL,Steve Henson\hensost01,22.151,G,us,Kansas State University,1991,1999,238,9.6,3.1,0.7,2.0,0.4,0.0,.403,.384,.432,.869,3.8,.079
+238,1994,NBA,2,39,GSW,Anthony Miller\millean01,22.256,F,us,Michigan State University,1995,2005,181,9.0,2.8,2.7,0.4,0.3,0.1,.510,.516,.250,.576,3.8,.110
+239,1991,NBA,2,35,DAL,Mike Iuzzolino\iuzzomi01,23.161,G,us,Saint Francis University,1992,1993,122,25.0,9.0,2.0,4.3,0.7,0.1,.457,.485,.404,.798,3.7,.058
+240,2009,NBA,2,38,POR,Jon Brockman\brockjo01,22.103,F,us,University of Washington,2010,2012,150,10.5,2.1,3.1,0.3,0.2,0.1,.488,.490,.000,.618,3.7,.113
+241,2012,NBA,2,45,PHI,Justin Hamilton\hamilju01,22.094,C,us,Louisiana State University,2014,2017,113,17.4,6.1,3.6,0.8,0.5,0.6,.464,.560,.309,.798,3.7,.091
+242,2013,NBA,2,47,ATL,Raul Neto\netora01,21.044,G,br,,2016,2018,162,14.5,4.7,1.2,1.7,0.6,0.1,.439,.469,.388,.754,3.4,.070
+243,1997,NBA,2,44,CLE,Cedric Henderson\hendece02,22.112,F,us,University of Memphis,1998,2002,260,23.8,7.3,2.9,1.6,0.9,0.4,.436,.443,.140,.715,3.3,.026
+244,2005,NBA,2,39,LAL,Von Wafer\wafervo01,19.347,G,us,Florida State University,2006,2012,200,12.4,5.3,1.2,0.7,0.4,0.1,.420,.469,.325,.751,3.3,.064
+245,2015,NBA,2,44,PHO,Andrew Harrison\harrian01,20.245,G,us,University of Kentucky,2017,2018,128,21.9,7.5,2.1,2.9,0.7,0.4,.378,.424,.302,.771,3.3,.056
+246,1987,NBA,2,26,DAL,Steve Alford\alforst01,22.216,G,us,Indiana University,1988,1991,169,9.7,4.4,0.9,1.0,0.5,0.1,.459,.487,.324,.870,3.2,.093
+247,1992,NBA,2,34,MIN,Chris Smith\smithch03,22.044,G,us,University of Connecticut,1993,1995,224,17.7,5.1,1.3,2.8,0.5,0.3,.435,.449,.366,.713,3.2,.039
+248,2016,NBA,2,31,BOS,Deyonta Davis\davisde01,19.208,C-F,us,Michigan State University,2017,2018,98,12.1,4.3,3.2,0.4,0.2,0.6,.593,.593,,.640,3.2,.130
+249,2001,NBA,2,46,MIN,Loren Woods\woodslo01,23.012,F-C,us,University of Arizona,2002,2008,215,11.3,2.6,3.2,0.3,0.3,0.6,.419,.423,.143,.642,3.1,.062
+250,2005,NBA,2,48,SEA,Mickael Gelabale\gelabmi01,22.043,F,gp,,2007,2013,145,16.2,4.6,2.3,0.8,0.3,0.2,.470,.519,.316,.815,3.0,.062
+251,2013,NBA,2,48,LAL,Ryan Kelly\kellyry01,22.085,F,us,Duke University,2014,2017,163,19.2,6.0,3.1,1.3,0.5,0.5,.378,.416,.316,.797,3.0,.046
+252,1990,NBA,2,39,CHH,Steve Scheffler\schefst01,22.303,C-F,us,Purdue University,1991,1997,174,5.3,1.9,1.0,0.1,0.2,0.0,.558,.566,.200,.759,2.9,.153
+253,1998,NBA,2,36,SAC,Jerome James\jamesje01,22.225,C,us,Florida Agricultural and Mechanical University,1999,2009,358,13.3,4.3,3.1,0.3,0.3,1.1,.485,.486,.000,.617,2.9,.029
+254,1999,NBA,2,53,MIA,Rodney Buford\buforro01,21.245,G-F,us,Creighton University,2000,2005,230,18.2,6.4,2.6,0.8,0.5,0.1,.412,.433,.300,.758,2.9,.033
+255,2002,NBA,2,44,CHI,Lonny Baxter\baxtelo01,23.156,F,us,University of Maryland,2003,2006,162,11.6,3.9,2.9,0.2,0.2,0.4,.466,.469,.200,.657,2.9,.075
+256,2008,NBA,2,33,POR,Joey Dorsey\dorsejo01,24.199,F,us,University of Memphis,2009,2015,130,11.4,2.6,3.9,0.4,0.5,0.3,.534,.536,.000,.375,2.9,.092
+257,2017,NBA,2,38,CHI,Jordan Bell\belljo01,22.172,F,us,University of Oregon,2018,2018,57,14.2,4.6,3.6,1.8,0.6,1.0,.627,.641,.000,.682,2.9,.174
+258,2015,NBA,2,41,BRK,Pat Connaughton\connapa01,22.175,G,us,University of Notre Dame,2016,2018,155,12.6,3.7,1.6,0.8,0.2,0.2,.421,.482,.364,.845,2.8,.070
+259,1988,NBA,2,46,DAL,Morlon Wiley\wileymo01,21.283,G,us,California State University Long Beach,1989,1995,295,13.0,3.7,1.2,2.4,0.8,0.1,.412,.444,.354,.707,2.7,.034
+260,1992,NBA,2,28,MIN,Marlon Maxey\maxeyma01,23.131,F,us,University of Texas at El Paso,1993,1994,98,11.7,4.9,3.7,0.2,0.3,0.5,.542,.547,.000,.685,2.6,.109
+261,1994,NBA,2,33,PHI,Derrick Alston\alstode01,21.318,F,us,Duquesne University,1995,1997,139,19.1,5.4,3.8,0.7,0.7,0.6,.489,.493,.143,.487,2.6,.047
+262,1998,NBA,2,44,NYK,Sean Marks\marksse01,22.311,F-C,nz,University of California,1999,2011,230,9.9,2.8,2.2,0.2,0.1,0.4,.448,.459,.200,.665,2.6,.055
+263,2009,NBA,2,45,MIN,Nick Calathes\calatni01,20.143,G,us,University of Florida,2014,2015,129,15.6,4.6,1.9,2.7,1.0,0.1,.441,.476,.288,.581,2.6,.063
+264,1991,NBA,2,40,DET,Doug Overton\overtdo01,21.332,G,us,La Salle University,1993,2004,499,14.6,4.5,1.3,2.1,0.4,0.0,.412,.430,.319,.816,2.5,.016
+265,1993,NBA,2,33,DAL,Eric Riley\rileyer01,23.034,C,us,University of Michigan,1994,1999,186,9.9,3.1,2.6,0.3,0.3,0.7,.456,.460,.000,.704,2.5,.066
+266,2005,NBA,2,55,SEA,Lawrence Roberts\roberla01,22.257,F,us,Mississippi State University,2006,2007,87,13.2,3.8,3.6,0.4,0.5,0.2,.452,.460,.000,.688,2.5,.106
+267,1987,NBA,2,34,IND,Brian Rowsom\rowsobr01,21.247,F,us,University of North Carolina at Wilmington,1988,1990,82,13.3,5.6,3.3,0.6,0.4,0.3,.455,.453,.667,.818,2.4,.107
+268,1991,NBA,2,51,HOU,Zan Tabak\tabakza01,21.016,C,hr,,1995,2001,247,14.6,5.0,3.6,0.7,0.3,0.5,.506,.507,.000,.525,2.4,.032
+269,2009,NBA,2,53,SAS,Nando De Colo\decolna01,22.008,G,fr,,2013,2014,119,11.9,3.8,1.8,1.7,0.5,0.1,.429,.463,.363,.835,2.4,.081
+270,2012,NBA,2,60,LAL,Robert Sacre\sacrero01,23.028,C,us,Gonzaga University,2013,2016,189,14.5,4.2,3.1,0.7,0.3,0.6,.436,.437,.000,.671,2.4,.042
+271,2016,NBA,2,33,LAC,Cheick Diallo\diallch01,19.288,F,ml,University of Kansas,2017,2018,69,11.3,4.9,4.1,0.3,0.2,0.4,.548,.548,,.747,2.4,.145
+272,1995,NBA,2,48,MIN,Mark Davis\davisma02,22.068,G-F,us,Texas Tech University,1996,2000,230,16.0,5.5,3.0,1.3,0.9,0.3,.442,.465,.246,.655,2.3,.030
+273,1996,NBA,2,42,HOU,Randy Livingston\livinra01,21.091,G,us,Louisiana State University,1997,2007,203,13.2,3.8,1.4,2.0,0.6,0.2,.406,.414,.351,.771,2.3,.041
+274,1998,NBA,2,58,CHI,Maceo Baston\bastoma01,23.032,F,us,University of Michigan,2003,2009,105,7.9,2.7,1.7,0.2,0.2,0.4,.616,.628,.375,.740,2.3,.134
+275,2016,NBA,2,38,MIL,Patrick McCaw\mccawpa01,20.247,G,us,University of Nevada Las Vegas,2017,2018,128,15.9,4.0,1.4,1.2,0.6,0.2,.421,.517,.296,.775,2.3,.054
+276,2005,NBA,2,31,ATL,Salim Stoudamire\stoudsa01,22.266,G,us,University of Arizona,2006,2008,157,17.0,8.0,1.4,1.0,0.4,0.1,.407,.435,.366,.882,2.2,.040
+277,1985,NBA,2,46,CHI,Adrian Branch\brancad01,21.219,F-G,us,University of Maryland,1987,1990,130,11.0,6.4,1.9,0.7,0.6,0.1,.455,.468,.231,.744,2.1,.070
+278,1989,NBA,2,31,LAC,Jeff Martin\martije01,22.170,G,us,Murray State University,1990,1991,143,18.8,6.7,2.0,0.8,0.5,0.3,.417,.434,.282,.694,2.1,.038
+279,1996,NBA,2,31,PHI,Mark Hendrickson\hendrma01,22.009,F,us,Washington State University,1997,2000,114,13.2,3.3,2.8,0.6,0.4,0.1,.416,.431,.167,.803,2.1,.067
+280,1998,NBA,2,54,DEN,Tremaine Fowlkes\fowlktr01,22.079,F,us,California State University Fresno,2002,2005,103,12.0,2.9,2.2,0.5,0.5,0.1,.409,.426,.200,.791,2.1,.080
+281,1999,NBA,2,36,DAL,Wang Zhizhi\zhizhwa01,21.362,C,cn,,2001,2005,137,9.2,4.4,1.7,0.3,0.2,0.3,.417,.435,.385,.735,2.1,.078
+282,2011,NBA,2,45,NOH,Josh Harrellson\harrejo01,22.136,C,us,University of Kentucky,2012,2014,75,11.8,3.5,3.0,0.3,0.4,0.5,.438,.497,.347,.629,2.1,.116
+283,2013,NBA,2,36,SAC,Ray McCallum\mccalra01,22.021,G,us,University of Detroit Mercy,2014,2016,154,18.2,6.0,2.0,2.4,0.5,0.2,.408,.430,.335,.711,2.1,.035
+284,2016,NBA,2,32,LAL,Ivica Zubac\zubaciv01,19.102,C,ba,,2017,2018,81,12.6,5.5,3.5,0.7,0.3,0.6,.519,.525,.000,.710,2.1,.099
+285,1987,NBA,2,32,MIL,Bob McCann\mccanbo01,23.066,F,us,Morehead State University,1990,1998,178,13.4,4.2,2.6,0.6,0.4,0.4,.479,.481,.200,.577,2.0,.041
+286,2004,NBA,2,45,CHA,Bernard Robinson\robinbe01,23.186,G-F,us,University of Michigan,2005,2007,128,14.9,4.5,2.5,1.0,0.9,0.1,.417,.434,.161,.786,2.0,.049
+287,2012,NBA,2,33,CLE,Bernard James\jamesbe01,27.148,C,us,Florida State University,2013,2015,92,8.3,2.2,2.3,0.1,0.2,0.7,.497,.507,.000,.680,1.9,.117
+288,2012,NBA,2,58,MIN,Robbie Hummel\hummero01,23.118,F,us,Purdue University,2014,2015,98,14.3,3.9,2.7,0.5,0.3,0.1,.418,.469,.343,.867,1.9,.066
+289,1991,NBA,2,33,DAL,Donald Hodge\hodgedo01,22.126,C,us,Temple University,1992,1996,249,14.1,4.7,3.2,0.8,0.3,0.4,.437,.439,.286,.711,1.8,.025
+290,1994,NBA,2,37,SEA,Dontonio Wingfield\wingfdo01,20.011,F,us,University of Cincinnati,1995,1998,114,10.1,3.7,2.4,0.7,0.3,0.1,.389,.437,.309,.721,1.8,.074
+291,2008,NBA,2,60,BOS,Semih Erden\erdense01,21.339,C,tr,,2011,2012,69,13.4,3.8,2.8,0.4,0.4,0.4,.546,.546,,.594,1.8,.094
+292,1994,NBA,2,29,PHO,Antonio Lang\langan02,22.050,F-G,us,Duke University,1995,2000,143,9.8,2.3,1.5,0.3,0.4,0.3,.455,.469,.000,.719,1.7,.057
+293,1999,NBA,2,37,VAN,Obinna Ekezie\ekeziob01,23.318,F-C,ng,University of Maryland,2000,2005,143,10.6,3.6,2.7,0.2,0.3,0.2,.423,.424,.000,.720,1.7,.054
+294,2010,NBA,2,44,MIL,Jerome Jordan\jordaje01,23.274,C,jm,University of Tulsa,2012,2015,65,7.6,2.8,2.0,0.3,0.1,0.3,.528,.528,,.852,1.7,.168
+295,1989,NBA,2,52,PHO,Greg Grant\grantgr01,22.308,G,us,Trenton State University,1990,1996,274,12.2,2.8,0.9,2.7,0.6,0.0,.383,.405,.281,.710,1.6,.023
+296,1991,NBA,2,36,ORL,Chris Corchiani\corchch01,23.095,G,us,North Carolina State University,1992,1994,112,11.7,3.7,1.2,2.2,0.7,0.0,.421,.472,.269,.816,1.6,.058
+297,1992,NBA,2,35,CHH,Tony Bennett\benneto01,23.029,G,us,University of Wisconsin-Green Bay,1993,1995,152,12.4,3.5,1.0,2.0,0.5,0.0,.412,.446,.335,.732,1.6,.041
+298,1992,NBA,2,39,CHI,Litterial Green\greenli01,22.115,G,us,University of Georgia,1993,1999,148,8.0,2.9,0.5,1.2,0.3,0.0,.420,.448,.077,.665,1.6,.066
+299,2011,NBA,2,53,ORL,DeAndre Liggins\liggide01,23.089,G,us,University of Kentucky,2012,2018,177,10.8,2.0,1.4,0.7,0.6,0.2,.402,.432,.352,.549,1.6,.040
+300,2002,NBA,2,37,ATL,David Andersen\anderda03,22.008,C,au,,2010,2011,103,12.3,4.9,2.8,0.6,0.2,0.2,.440,.467,.347,.674,1.5,.059
+301,2006,NBA,2,45,IND,Alexander Johnson\johnsal01,23.146,F,us,Florida State University,2007,2008,102,12.8,4.3,2.7,0.3,0.4,0.4,.517,.517,,.672,1.5,.056
+302,2008,NBA,2,38,CHA,Kyle Weaver\weaveky01,22.134,G,us,Washington State University,2009,2011,73,18.9,5.0,2.2,1.6,0.8,0.5,.441,.497,.353,.736,1.5,.051
+303,1986,NBA,2,43,HOU,Dave Feitl\feitlda01,24.015,C,us,University of Texas at El Paso,1987,1992,275,10.9,4.3,3.0,0.5,0.2,0.2,.433,.436,.000,.751,1.4,.022
+304,1998,NBA,2,30,DAL,Ansu Sesay\sesayan01,21.335,F,us,University of Mississippi,2002,2005,127,10.2,3.2,1.8,0.5,0.3,0.2,.434,.447,.276,.640,1.4,.051
+305,2002,NBA,2,40,WAS,Juan Carlos Navarro\navarju01,22.018,G,es,,2008,2008,82,25.8,10.9,2.6,2.2,0.6,0.0,.402,.455,.361,.849,1.4,.031
+306,2002,NBA,2,47,UTA,Jamal Sampson\sampsja01,19.047,F-C,us,University of California,2003,2007,72,8.8,2.0,3.4,0.4,0.1,0.4,.491,.495,.000,.537,1.4,.106
+307,2012,NBA,2,36,SAC,Orlando Johnson\johnsor01,23.115,G,us,University of California Santa Barbara,2013,2016,103,10.8,3.2,1.7,0.7,0.2,0.1,.358,.398,.311,.727,1.4,.059
+308,2012,NBA,2,53,LAC,Furkan Aldemir\aldemfu01,20.329,F-C,tr,,2015,2015,41,13.2,2.3,4.3,0.7,0.4,0.4,.513,.548,.000,.481,1.4,.122
+309,1994,NBA,2,43,POR,Shawnelle Scott\scottsh01,22.018,C,us,St. John's University,1997,2002,105,6.0,1.8,2.2,0.2,0.1,0.2,.464,.464,,.465,1.3,.101
+310,1996,NBA,2,52,IND,Mark Pope\popema01,23.294,F,us,University of Kentucky,1998,2005,153,10.7,1.9,1.7,0.4,0.2,0.3,.401,.455,.179,.573,1.3,.038
+311,2000,NBA,2,45,SAC,Jabari Smith\smithja01,23.142,C,us,Louisiana State University,2001,2005,108,9.8,3.0,1.6,0.6,0.3,0.2,.413,.420,.125,.690,1.3,.058
+312,2008,NBA,2,52,MIA,Darnell Jackson\jacksda01,22.237,F,us,University of Kansas,2009,2011,138,7.5,2.2,1.5,0.2,0.2,0.1,.449,.463,.235,.644,1.3,.059
+313,2011,NBA,2,36,NJN,Jordan Williams\willijo03,20.260,F,us,University of Maryland,2012,2012,43,14.8,4.6,3.6,0.3,0.5,0.3,.507,.507,,.652,1.3,.101
+314,2012,NBA,2,31,CHA,Jeff Taylor\tayloje03,23.042,F,se,Vanderbilt University,2013,2015,132,19.4,6.1,2.0,0.8,0.5,0.2,.409,.458,.319,.665,1.3,.024
+315,2014,NBA,2,32,PHI,K.J. McDaniels\mcdankj01,21.142,G-F,us,Clemson University,2015,2017,148,14.1,5.3,2.2,0.6,0.5,0.6,.412,.479,.290,.776,1.3,.030
+316,1994,NBA,2,47,UTA,Jamie Watson\watsoja01,22.132,F,us,University of South Carolina,1995,1999,102,12.2,3.2,1.5,1.1,0.6,0.2,.468,.494,.316,.694,1.2,.045
+317,2000,NBA,2,42,SEA,Olumide Oyedeji\oyedeol01,19.053,C,ng,,2001,2003,93,6.3,1.4,2.1,0.1,0.2,0.2,.495,.495,,.659,1.2,.095
+318,2017,NBA,2,35,ORL,Ivan Rabb\rabbiv01,20.143,F,us,University of California,2018,2018,36,14.3,5.6,4.4,0.9,0.3,0.4,.566,.566,,.806,1.2,.109
+319,2017,NBA,2,37,BOS,Semi Ojeleye\ojelese01,22.205,F,us,Southern Methodist University,2018,2018,73,15.8,2.7,2.2,0.3,0.3,0.1,.346,.397,.320,.610,1.2,.048
+320,2017,NBA,2,45,HOU,Dillon Brooks\brookdi01,21.157,F-G,ca,University of Oregon,2018,2018,82,28.7,11.0,3.1,1.6,0.9,0.2,.440,.484,.356,.747,1.2,.024
+321,1990,NBA,2,37,WSB,A.J. English\engliaj01,22.357,G,us,Virginia Union University,1991,1992,151,20.6,9.9,2.1,2.1,0.4,0.2,.435,.449,.138,.778,1.1,.017
+322,1994,NBA,2,38,CHH,Darrin Hancock\hancoda01,22.244,G-F,us,University of Kansas,1995,1997,133,10.5,3.5,1.3,0.7,0.4,0.1,.530,.533,.333,.579,1.1,.038
+323,2001,NBA,2,45,CHI,Sean Lampley\lamplse01,21.303,F,us,University of California,2003,2004,45,12.2,4.5,2.1,0.7,0.2,0.1,.463,.476,.000,.691,1.1,.096
+324,2006,NBA,2,37,MIN,Bobby Jones\jonesbo02,22.176,F,us,University of Washington,2007,2008,91,9.5,3.2,1.6,0.5,0.3,0.0,.442,.491,.306,.685,1.1,.060
+325,2014,NBA,2,44,MIN,Markel Brown\brownma02,22.154,G,us,Oklahoma State University,2015,2018,113,15.9,5.2,2.1,1.2,0.6,0.2,.380,.427,.295,.781,1.1,.029
+326,1991,NBA,2,49,SAS,Greg Sutton\suttogr01,23.211,G,us,Oral Roberts University,1992,1996,168,11.6,4.5,0.9,1.7,0.5,0.1,.396,.426,.361,.743,1.0,.024
+327,1992,NBA,2,45,SEA,Chris King\kingch01,22.341,F,us,Wake Forest University,1994,1999,103,20.0,6.7,3.0,1.1,0.7,0.3,.423,.433,.383,.633,1.0,.023
+328,1993,NBA,2,52,SAC,Mike Peplowski\peplomi01,22.264,C,us,Michigan State University,1994,1996,68,10.4,2.9,2.6,0.4,0.3,0.4,.556,.560,.000,.531,1.0,.067
+329,1998,NBA,2,45,LAL,Toby Bailey\baileto01,22.223,G,us,University of California Los Angeles,1999,2000,73,9.6,3.3,1.7,0.6,0.3,0.1,.407,.422,.200,.692,1.0,.072
+330,2001,NBA,2,34,ATL,Terence Morris\morrite01,22.173,F,us,University of Maryland,2002,2006,139,13.9,3.4,2.7,0.7,0.3,0.4,.407,.465,.196,.711,1.0,.025
+331,2002,NBA,2,33,DEN,Vincent Yarbrough\yarbrvi01,21.102,G-F,us,University of Tennessee,2003,2003,59,23.4,6.9,2.7,2.2,1.0,0.6,.393,.420,.269,.790,1.0,.035
+332,2017,NBA,2,48,MIL,Sindarius Thornwell\thornsi01,22.225,G,us,University of South Carolina,2018,2018,73,15.8,3.9,1.9,0.9,0.7,0.3,.429,.448,.377,.670,1.0,.041
+333,1989,NBA,2,50,NYK,Brian Quinnett\quinnbr01,23.034,F,us,Washington State University,1990,1992,138,11.1,3.4,1.6,0.6,0.3,0.2,.414,.434,.326,.677,0.9,.027
+334,1995,NBA,2,39,CLE,Donny Marshall\marshdo02,22.351,F,us,University of Connecticut,1996,2003,119,7.7,2.5,1.0,0.3,0.3,0.0,.321,.308,.336,.681,0.9,.045
+335,2000,NBA,2,40,ATL,Hanno Mottola\mottoha01,23.298,C,fi,University of Utah,2001,2002,155,15.2,4.6,2.9,0.5,0.2,0.2,.442,.451,.063,.783,0.9,.019
+336,2007,NBA,2,38,PHI,Kyrylo Fesenko\fesenky01,20.191,C,ua,,2008,2012,135,8.2,2.3,2.0,0.3,0.1,0.4,.496,.500,.000,.410,0.9,.038
+337,2010,NBA,2,52,BOS,Luke Harangody\haranlu01,22.179,F,us,University of Notre Dame,2011,2012,70,12.4,3.6,2.8,0.5,0.3,0.3,.376,.440,.241,.737,0.9,.048
+338,2013,NBA,2,38,WAS,Nate Wolters\woltena01,22.049,G,us,South Dakota State University,2014,2018,84,18.8,5.5,2.2,2.5,0.5,0.2,.423,.452,.261,.635,0.9,.028
+339,2014,NBA,2,60,SAS,Cory Jefferson\jeffeco01,23.188,F,us,Baylor University,2015,2016,58,10.0,3.5,2.8,0.3,0.2,0.4,.444,.474,.125,.583,0.9,.071
+340,2015,NBA,2,31,MIN,Cedi Osman\osmande01,20.083,F,mk,,2018,2018,61,11.0,3.9,2.0,0.7,0.4,0.0,.484,.586,.368,.565,0.9,.064
+341,1985,NBA,2,28,CHI,Ken Johnson\johnske01,22.229,F,us,Michigan State University,1986,1986,64,12.7,4.1,3.8,0.3,0.2,0.3,.528,.528,,.435,0.8,.044
+342,1990,NBA,2,36,ATL,Trevor Wilson\wilsotr01,22.108,F,us,University of California Los Angeles,1991,1996,103,15.6,5.7,3.4,1.0,0.5,0.1,.456,.459,.000,.567,0.8,.023
+343,2001,NBA,2,51,PHO,Alton Ford\fordal02,20.034,F,us,University of Houston,2002,2004,73,7.2,2.5,1.7,0.2,0.1,0.1,.507,.507,,.697,0.8,.074
+344,2002,NBA,2,41,LAC,Mario Kasun\kasunma01,22.087,C,hr,,2005,2006,73,7.8,2.7,2.6,0.2,0.1,0.2,.467,.470,.000,.636,0.8,.069
+345,2004,NBA,2,47,MIA,Pape Sow\sowpa01,22.220,F,sn,California State University Fullerton,2005,2007,76,11.6,2.9,2.8,0.2,0.4,0.3,.416,.416,,.678,0.8,.044
+346,2005,NBA,2,32,LAC,Daniel Ewing\ewingda01,22.100,G,us,Duke University,2006,2007,127,13.3,3.4,1.2,1.4,0.5,0.1,.389,.429,.295,.780,0.8,.024
+347,2006,NBA,2,31,POR,James White\whiteja02,23.256,G-F,us,University of Cincinnati,2007,2013,67,8.7,2.7,1.0,0.5,0.3,0.1,.438,.482,.340,.676,0.8,.062
+348,2006,NBA,2,54,NJN,Hassan Adams\adamsha01,22.013,G,us,University of Arizona,2007,2009,73,7.5,2.5,1.2,0.2,0.2,0.1,.534,.537,.000,.643,0.8,.072
+349,2007,NBA,2,34,DAL,Nick Fazekas\fazekni01,22.016,F,us,University of Nevada Reno,2008,2008,26,10.3,4.1,3.4,0.4,0.3,0.4,.561,.575,.000,.682,0.8,.148
+350,2008,NBA,2,48,PHO,Malik Hairston\hairsma01,21.129,G,us,University of Oregon,2009,2010,62,7.6,2.4,1.2,0.5,0.2,0.3,.512,.549,.167,.514,0.8,.086
+351,1985,NBA,2,25,POR,Mike Smrek\smrekmi01,22.297,C,ca,Canisius College,1986,1992,194,9.7,2.9,2.2,0.3,0.2,0.8,.431,.433,.000,.617,0.7,.018
+352,1987,NBA,2,35,HOU,Doug Lee\leedo01,22.246,G-F,us,Purdue University,1992,1995,73,5.7,2.3,0.6,0.4,0.2,0.1,.412,.478,.310,.700,0.7,.086
+353,1988,NBA,2,35,MIA,Sylvester Gray\graysy01,20.361,F,us,University of Memphis,1989,1989,55,22.2,8.0,5.2,2.1,0.7,0.5,.420,.421,.250,.673,0.7,.028
+354,1989,NBA,2,35,DAL,Pat Durham\durhapa01,22.115,F,us,Colorado State University,1993,1995,64,14.5,5.0,1.7,0.9,0.6,0.5,.469,.500,.192,.667,0.7,.037
+355,1998,NBA,2,46,MIN,Andrae Patterson\pattean01,22.230,F,us,Indiana University,1999,2000,40,7.6,3.0,1.7,0.4,0.5,0.2,.455,.479,.000,.778,0.7,.114
+356,1999,NBA,2,38,ORL,Laron Profit\profila01,21.334,G-F,us,University of Maryland,2000,2006,135,11.4,3.3,1.5,1.2,0.5,0.2,.419,.469,.236,.712,0.7,.021
+357,2003,NBA,2,56,BOS,Brandon Hunter\huntebr01,22.219,F,us,Ohio University,2004,2005,67,9.4,3.3,2.8,0.3,0.3,0.1,.476,.484,.000,.488,0.7,.055
+358,2007,NBA,2,41,MIN,Chris Richard\richach01,22.190,F,us,University of Florida,2008,2010,70,11.1,1.9,2.8,0.4,0.3,0.2,.483,.483,,.605,0.7,.045
+359,2010,NBA,2,41,MIA,Jarvis Varnado\varnaja01,22.120,F,us,Mississippi State University,2013,2014,37,10.7,2.9,1.9,0.4,0.3,0.8,.582,.582,,.518,0.7,.089
+360,2016,NBA,2,60,UTA,Tyrone Wallace\wallaty01,22.019,G,us,University of California,2018,2018,30,28.4,9.7,3.5,2.4,0.9,0.4,.445,.483,.250,.782,0.7,.042
+361,2017,NBA,2,33,ORL,Wesley Iwundu\iwundwe01,22.190,F,us,Kansas State University,2018,2018,62,16.5,3.7,2.2,0.9,0.5,0.2,.427,.488,.196,.723,0.7,.032
+362,2017,NBA,2,46,PHI,Sterling Brown\brownst02,22.138,G,us,Southern Methodist University,2018,2018,54,14.4,4.0,2.6,0.5,0.6,0.2,.400,.439,.352,.875,0.7,.043
+363,1992,NBA,2,50,GSW,Matt Fish\fishma01,22.224,C,us,University of North Carolina at Wilmington,1995,1997,50,10.2,3.5,2.2,0.5,0.4,0.3,.500,.504,.000,.625,0.6,.058
+364,1996,NBA,2,56,CLE,Reggie Geary\gearyre01,22.305,G,us,University of Arizona,1997,1998,101,9.2,2.1,0.8,1.1,0.5,0.1,.344,.349,.328,.493,0.6,.032
+365,1996,NBA,2,57,SEA,Drew Barry\barrydr01,23.135,G,us,Georgia Institute of Technology,1998,2000,60,10.0,2.2,1.1,1.9,0.3,0.0,.417,.475,.381,.774,0.6,.051
+366,1997,NBA,2,31,DET,Charles O'Bannon\obannch01,22.129,G-F,us,University of California Los Angeles,1998,1999,48,8.3,2.5,1.4,0.6,0.2,0.1,.400,.413,.000,.870,0.6,.070
+367,1998,NBA,2,52,SAS,Derrick Dial\dialde01,22.192,G,us,Eastern Michigan University,2000,2004,82,8.4,3.1,1.6,0.8,0.3,0.1,.372,.404,.190,.672,0.6,.045
+368,2000,NBA,2,34,CHI,Khalid El-Amin\elamikh01,21.070,G,us,University of Connecticut,2001,2001,50,18.7,6.3,1.6,2.9,1.0,0.0,.370,.383,.333,.778,0.6,.030
+369,2014,NBA,2,35,UTA,Jarnell Stokes\stokeja01,20.175,F-C,us,University of Tennessee,2015,2017,28,5.4,2.4,1.4,0.3,0.3,0.2,.581,.581,,.531,0.6,.202
+370,2015,NBA,2,48,OKC,Dakari Johnson\johnsda04,19.281,C,us,University of Kentucky,2018,2018,31,5.2,1.8,1.1,0.3,0.2,0.3,.564,.564,,.550,0.6,.178
+371,2017,NBA,2,44,NYK,Damyean Dotson\dotsoda01,23.053,G,us,University of Oregon,2018,2018,44,10.8,4.1,1.9,0.7,0.3,0.0,.447,.538,.324,.696,0.6,.060
+372,1985,NBA,2,41,ATL,Lorenzo Charles\charllo01,21.211,F,us,North Carolina State University,1986,1986,36,7.6,3.4,1.1,0.2,0.1,0.2,.557,.557,,.667,0.5,.086
+373,1993,NBA,2,43,DEN,Josh Grant\grantjo01,25.334,F,us,University of Utah,1994,1994,53,7.2,3.0,1.7,0.5,0.3,0.2,.404,.494,.279,.759,0.5,.060
+374,1996,NBA,2,49,ORL,Amal McCaskill\mccasam01,22.247,F-C,us,Marquette University,1997,2004,114,8.5,1.8,1.9,0.3,0.2,0.3,.377,.382,.000,.609,0.5,.024
+375,1997,NBA,2,41,DEN,Jason Lawson\lawsoja01,22.302,C,us,Villanova University,1998,1998,17,4.7,1.5,1.6,0.3,0.2,0.2,.600,.600,,.800,0.5,.280
+376,1997,NBA,2,51,LAL,DeJuan Wheat\wheatde01,23.260,G,us,University of Louisville,1998,1999,80,9.3,3.3,0.7,1.6,0.4,0.0,.383,.380,.390,.700,0.5,.034
+377,1999,NBA,2,33,DEN,Chris Herren\herrech01,23.282,G,us,California State University Fresno,2000,2001,70,14.4,3.2,1.0,2.4,0.4,0.0,.336,.347,.328,.692,0.5,.025
+378,2004,NBA,2,34,ATL,Donta Smith\smithdo04,20.215,G-F,us,Southeastern Illinois College,2005,2006,61,9.2,2.7,1.1,0.8,0.5,0.1,.421,.447,.308,.650,0.5,.043
+379,2004,NBA,2,40,BOS,Justin Reed\reedju01,22.165,F,us,University of Mississippi,2005,2007,136,10.6,3.5,1.4,0.5,0.2,0.1,.404,.407,.000,.752,0.5,.016
+380,2005,NBA,2,42,GSW,Chris Taft\taftch01,20.115,F,us,University of Pittsburgh,2006,2006,17,8.5,2.8,2.1,0.1,0.1,0.4,.605,.605,,.167,0.5,.155
+381,2005,NBA,2,47,MIN,Bracey Wright\wrighbr02,21.002,G,us,Indiana University,2006,2007,26,12.5,5.0,1.5,0.8,0.4,0.0,.405,.446,.324,.794,0.5,.068
+382,2006,NBA,2,34,LAC,Paul Davis\davispa01,21.347,C,us,Michigan State University,2007,2010,82,8.6,2.6,1.9,0.4,0.3,0.2,.402,.404,.000,.732,0.5,.035
+383,2010,NBA,2,32,MIA,Dexter Pittman\pittmde01,22.119,C,us,University of Texas at Austin,2011,2014,50,6.9,2.3,1.8,0.2,0.2,0.2,.450,.450,,.545,0.5,.068
+384,2010,NBA,2,43,LAL,Devin Ebanks\ebankde01,20.244,F,us,West Virginia University,2011,2013,63,11.3,3.6,1.9,0.4,0.3,0.2,.385,.418,.222,.722,0.5,.035
+385,2011,NBA,2,44,GSW,Charles Jenkins\jenkich01,22.120,G,us,Hofstra University,2012,2013,110,12.1,3.7,0.9,1.9,0.4,0.1,.434,.449,.182,.754,0.5,.017
+386,2011,NBA,2,52,DET,Vernon Macklin\macklve01,24.282,F,us,University of Florida,2012,2012,23,5.9,2.0,1.5,0.2,0.2,0.2,.543,.543,,.571,0.5,.161
+387,2014,NBA,2,58,SAS,Jordan McRae\mcraejo01,23.096,G,us,University of Tennessee,2016,2017,59,9.8,4.4,1.0,0.7,0.2,0.1,.404,.413,.384,.774,0.5,.043
+388,2015,NBA,2,33,BOS,Jordan Mickey\mickejo01,20.356,F,us,Louisiana State University,2016,2018,64,7.5,2.4,2.0,0.3,0.1,0.4,.449,.496,.118,.605,0.5,.050
+389,2015,NBA,2,36,MIN,Rakeem Christmas\chrisra01,23.212,F,us,Syracuse University,2016,2017,30,7.5,2.1,1.9,0.1,0.1,0.2,.467,.467,,.724,0.5,.105
+390,2016,NBA,2,34,PHO,Tyler Ulis\ulisty01,20.175,G,us,University of Kentucky,2017,2018,132,21.1,7.6,1.7,4.1,0.9,0.1,.403,.439,.280,.808,0.5,.008
+391,2017,NBA,2,34,SAC,Frank Mason\masonfr01,23.086,G,us,University of Kansas,2018,2018,52,18.9,7.9,2.5,2.8,0.7,0.2,.379,.384,.360,.817,0.5,.027
+392,1986,NBA,2,34,SAC,Johnny Rogers\rogerjo01,22.175,F-C,us,University of California Irvine,1987,1988,69,9.2,3.6,1.5,0.4,0.2,0.2,.472,.485,.000,.679,0.4,.032
+393,1986,NBA,2,35,DAL,Milt Wagner\wagnemi01,23.123,G,us,University of Louisville,1988,1991,53,9.4,4.1,0.7,1.4,0.2,0.1,.422,.441,.296,.875,0.4,.039
+394,1987,NBA,2,36,WSB,Duane Washington\washidu01,22.300,G,de,Middle Tennessee State University,1988,1993,19,9.7,2.8,1.3,2.1,0.7,0.0,.383,.372,.500,.800,0.4,.092
+395,1989,NBA,2,39,WSB,Ed Horton\hortoed01,21.198,F,us,University of Iowa,1990,1990,45,8.3,4.5,2.4,0.4,0.2,0.1,.494,.506,.000,.609,0.4,.050
+396,1989,NBA,2,41,WSB,Doug Roth\rothdo01,21.313,C,us,University of Tennessee,1990,1990,42,9.8,1.9,2.9,0.5,0.2,0.3,.430,.435,.000,.500,0.4,.052
+397,1990,NBA,2,34,GSW,Kevin Pritchard\pritcke01,22.351,G,us,University of Kansas,1991,1996,94,12.0,3.6,1.0,1.6,0.4,0.1,.399,.435,.186,.790,0.4,.017
+398,1990,NBA,2,54,SAS,Sean Higgins\higgise01,21.184,G-F,us,University of Michigan,1991,1998,220,15.2,6.3,1.8,1.0,0.3,0.1,.428,.459,.321,.850,0.4,.006
+399,1991,NBA,2,28,CHH,Kevin Lynch\lynchke01,22.189,G-F,us,University of Minnesota,1992,1993,95,12.0,3.3,1.3,1.1,0.5,0.2,.436,.440,.333,.726,0.4,.016
+400,1992,NBA,2,31,POR,Reggie Smith\smithre01,21.313,C,us,Texas Christian University,1993,1994,66,5.8,1.5,1.8,0.1,0.2,0.1,.394,.398,.000,.404,0.4,.051
+401,1992,NBA,2,47,BOS,Darren Morningstar\mornida01,23.069,C,us,University of Pittsburgh,1994,1994,23,16.0,4.2,3.5,0.7,0.6,0.1,.476,.476,,.600,0.4,.048
+402,2006,NBA,2,39,MIL,David Noel\noelda01,22.127,F,us,University of North Carolina,2007,2007,68,11.6,2.7,1.8,1.0,0.4,0.1,.367,.387,.321,.860,0.4,.024
+403,2007,NBA,2,32,BOS,Gabe Pruitt\pruitga01,21.075,G,us,University of Southern California,2008,2009,62,7.4,2.0,0.8,0.8,0.3,0.0,.321,.350,.283,.783,0.4,.043
+404,2011,NBA,2,43,CHI,Malcolm Lee\leema01,21.037,G,us,University of California Los Angeles,2012,2015,36,14.8,3.9,1.8,1.4,0.6,0.3,.382,.412,.294,.703,0.4,.040
+405,2015,NBA,2,43,IND,Joseph Young\youngjo01,23.003,G,us,University of Oregon,2016,2018,127,8.5,3.4,1.0,0.9,0.3,0.0,.393,.438,.296,.768,0.4,.016
+406,2017,NBA,2,41,ATL,Tyler Dorsey\dorsety01,21.134,G,us,University of Oregon,2018,2018,56,17.4,7.2,2.3,1.4,0.3,0.1,.377,.393,.362,.714,0.4,.020
+407,1985,NBA,2,26,IND,Bill Martin\martibi01,22.312,F,us,Georgetown University,1986,1988,84,10.2,4.7,1.6,0.7,0.4,0.1,.449,.460,.000,.813,0.3,.016
+408,1985,NBA,2,33,PHI,Greg Stokes\stokegr01,21.323,F-C,us,University of Iowa,1986,1990,42,9.1,3.1,1.5,0.4,0.3,0.3,.445,.449,.000,.696,0.3,.041
+409,1988,NBA,2,27,SAS,Shelton Jones\jonessh01,22.089,F,us,St. John's University,1989,1989,51,13.4,4.8,2.2,0.8,0.4,0.3,.445,.447,.000,.725,0.3,.022
+410,1991,NBA,2,39,CLE,Jimmy Oliver\oliveji01,21.354,G-F,us,Purdue University,1992,1999,78,11.0,4.2,1.0,0.7,0.3,0.0,.407,.418,.340,.772,0.3,.018
+411,1996,NBA,2,46,POR,Marcus Brown\brownma01,22.090,G,us,Murray State University,1997,2000,27,8.5,3.4,0.8,0.9,0.3,0.1,.381,.422,.333,.714,0.3,.066
+412,1997,NBA,2,38,MIL,Jerald Honeycutt\honeyje01,22.254,F-G,us,Tulane University,1998,1999,54,11.7,5.1,1.9,0.7,0.5,0.1,.391,.409,.362,.632,0.3,.020
+413,1998,NBA,2,57,UTA,Torraye Braggs\braggto01,22.045,F,us,Xavier University,2004,2005,22,8.1,2.1,2.3,0.3,0.2,0.1,.475,.475,,.667,0.3,.071
+414,2000,NBA,2,31,DAL,Dan Langhi\langhda01,22.218,F,us,Vanderbilt University,2001,2004,133,9.4,3.0,1.5,0.3,0.2,0.1,.391,.400,.289,.613,0.3,.012
+415,2000,NBA,2,32,CHI,A.J. Guyton\guytoaj01,22.142,G,us,Indiana University,2001,2003,80,15.6,5.5,1.0,1.8,0.3,0.2,.377,.377,.378,.822,0.3,.010
+416,2000,NBA,2,36,NJN,Soumaila Samake\samakso01,22.108,C,ml,,2001,2003,47,6.4,1.4,1.6,0.1,0.0,0.4,.389,.389,,.462,0.3,.046
+417,2006,NBA,2,41,ORL,James Augustine\augusja01,22.127,F,us,University of Illinois at Urbana-Champaign,2007,2008,27,5.8,1.6,1.2,0.1,0.2,0.1,.514,.514,,.500,0.3,.101
+418,2007,NBA,2,46,GSW,Stephane Lasme\lasmest01,24.199,F,ga,University of Massachusetts Amherst,2008,2008,16,18.9,5.2,3.3,0.2,0.8,1.4,.451,.451,,.594,0.3,.041
+419,2010,NBA,2,58,LAL,Derrick Caracter\caracde01,22.056,F,us,University of Texas at El Paso,2011,2011,41,5.2,2.0,1.0,0.2,0.1,0.2,.485,.485,,.739,0.3,.057
+420,2011,NBA,2,39,CHA,Jeremy Tyler\tylerje01,20.007,C,us,,2012,2014,104,9.9,3.6,2.6,0.2,0.2,0.4,.450,.451,.000,.557,0.3,.014
+421,2012,NBA,2,48,NYK,Kostas Papanikolaou\papanko01,21.338,F,gr,,2015,2016,69,15.8,3.6,2.3,1.5,0.6,0.3,.354,.416,.297,.688,0.3,.015
+422,2015,NBA,2,38,DET,Darrun Hilliard\hillida01,22.078,G,us,Villanova University,2016,2018,91,9.4,3.2,0.9,0.8,0.2,0.0,.377,.420,.304,.747,0.3,.016
+423,2016,NBA,2,52,UTA,Joel Bolomboy\bolomjo01,22.152,F,ua,Weber State University,2017,2018,18,5.1,1.7,1.5,0.1,0.2,0.1,.545,.647,.200,.500,0.3,.132
+424,2017,NBA,2,54,PHO,Alec Peters\peteral01,22.076,F,us,Valparaiso University,2018,2018,20,11.3,4.1,1.9,0.6,0.1,0.1,.378,.625,.310,.800,0.3,.055
+425,1988,NBA,2,44,ATL,Anthony Taylor\tayloan01,22.216,G,us,University of Oregon,1989,1989,21,17.5,6.9,1.6,2.0,1.0,0.2,.397,.403,.000,.750,0.2,.029
+426,1989,NBA,2,32,NJN,Stanley Brundy\brundst01,21.232,F,us,DePaul University,1990,1990,16,8.0,2.3,1.6,0.2,0.4,0.3,.500,.500,,.389,0.2,.057
+427,1992,NBA,2,33,CHI,Corey Williams\willico01,22.067,G,us,Oklahoma State University,1993,1994,39,7.4,2.4,0.9,0.7,0.2,0.1,.367,.372,.250,.826,0.2,.037
+428,1994,NBA,2,45,GSW,Dwayne Morton\mortodw01,22.331,F,us,University of Louisville,1995,1995,41,9.6,4.1,1.4,0.4,0.3,0.4,.388,.394,.360,.682,0.2,.025
+429,1995,NBA,2,49,MIN,Jerome Allen\allenje01,22.156,G,us,University of Pennsylvania,1996,1997,117,11.2,2.9,1.1,1.7,0.4,0.1,.350,.370,.317,.630,0.2,.006
+430,1996,NBA,2,38,BOS,Steve Hamer\hamerst01,22.231,C,us,University of Tennessee,1997,1997,35,7.7,2.2,1.7,0.2,0.1,0.1,.526,.545,.000,.552,0.2,.031
+431,1997,NBA,2,33,PHI,Marko Milic\milicma01,20.054,G-F,si,,1998,1999,44,4.9,2.5,0.7,0.3,0.3,0.0,.560,.571,.429,.647,0.2,.047
+432,1997,NBA,2,35,PHI,Kebu Stewart\stewake01,23.194,F,us,California State University Bakersfield,1998,1998,15,7.3,2.7,2.1,0.1,0.3,0.1,.462,.462,,.640,0.2,.098
+433,1998,NBA,2,48,CLE,Ryan Stack\stackry01,22.341,F,us,University of South Carolina,1999,2000,43,9.2,2.3,1.8,0.2,0.1,0.5,.352,.356,.000,.787,0.2,.028
+434,1999,NBA,2,56,GSW,Tim Young\youngti01,23.150,C,us,Stanford University,2000,2000,25,5.5,2.2,1.4,0.2,0.1,0.0,.333,.333,,.778,0.2,.058
+435,2000,NBA,2,55,GSW,Chris Porter\portech01,22.056,F,us,Auburn University,2001,2001,51,22.5,8.6,3.7,1.2,0.9,0.1,.389,.393,.000,.667,0.2,.008
+436,2001,NBA,2,50,POR,Ruben Boumtje-Boumtje\boumtru01,23.044,C,cm,Georgetown University,2002,2004,44,6.3,1.0,1.3,0.1,0.1,0.4,.368,.368,,.556,0.2,.027
+437,2003,NBA,2,37,ATL,Travis Hansen\hansetr01,25.078,G,us,Brigham Young University,2004,2004,41,12.4,3.0,1.7,0.5,0.2,0.2,.354,.370,.300,.815,0.2,.019
+438,2005,NBA,2,54,NYK,Dijon Thompson\thompdi01,22.131,G-F,us,University of California Los Angeles,2006,2007,16,5.8,2.8,1.2,0.2,0.2,0.1,.425,.481,.308,.875,0.2,.102
+439,2006,NBA,2,43,NOK,Marcus Vinicius\vincima01,22.033,F,br,,2007,2008,26,6.6,1.9,0.7,0.3,0.1,0.1,.457,.500,.421,.556,0.2,.056
+440,2008,NBA,2,41,IND,Nathan Jawai\jawaina01,21.265,C-F,au,,2009,2010,45,9.6,2.8,2.4,0.5,0.2,0.2,.435,.439,.000,.684,0.2,.020
+441,2008,NBA,2,56,SEA,Sasha Kaun\kaunsa01,23.055,C,ru,University of Kansas,2016,2016,25,3.8,0.9,1.0,0.1,0.2,0.2,.529,.529,,.455,0.2,.096
+442,2009,NBA,2,32,WAS,Jermaine Taylor\tayloje02,22.205,G,us,University of Central Florida,2010,2011,65,12.1,5.4,1.7,0.7,0.4,0.1,.441,.484,.284,.730,0.2,.014
+443,2009,NBA,2,58,BOS,Lester Hudson\hudsole01,24.328,G,us,University of Tennessee at Martin,2010,2015,57,10.4,4.7,1.4,1.2,0.6,0.1,.375,.441,.277,.806,0.2,.016
+444,2010,NBA,2,54,LAC,Willie Warren\warrewi01,20.250,G,us,University of Oklahoma,2011,2011,19,7.1,1.9,0.6,1.4,0.3,0.0,.371,.400,.333,.750,0.2,.065
+445,2012,NBA,2,44,DET,Kim English\engliki01,23.283,G,us,University of Missouri,2013,2013,41,9.9,2.9,0.9,0.6,0.4,0.1,.375,.452,.280,.724,0.2,.021
+446,2012,NBA,2,52,GSW,Ognjen Kuzmic\kuzmiog01,22.049,C,ba,,2014,2015,37,4.4,0.9,1.0,0.2,0.1,0.1,.520,.520,,.600,0.2,.061
+447,2013,NBA,2,37,DET,Tony Mitchell\mitchto02,21.086,F,us,University of North Texas,2014,2014,21,3.8,1.0,1.2,0.1,0.3,0.1,.417,.364,1.000,.579,0.2,.151
+448,2014,NBA,2,36,MIL,Johnny O'Bryant III\obryajo01,21.030,F-C,us,Louisiana State University,2015,2018,147,11.5,3.5,2.4,0.5,0.2,0.1,.402,.406,.360,.663,0.2,.006
+449,2014,NBA,2,43,ATL,Walter Tavares\tavarwa01,22.101,C,cv,,2016,2017,13,7.8,2.5,2.5,0.3,0.1,0.9,.625,.625,,.273,0.2,.118
+450,2017,NBA,2,51,DEN,Monte Morris\morrimo01,22.001,G,us,Iowa State University,2018,2018,3,8.3,3.3,0.7,2.3,1.0,0.0,.667,.800,.000,1.000,0.2,.312
+451,2017,NBA,2,56,BOS,Jabari Bird\birdja01,22.360,G,us,University of California,2018,2018,13,8.8,3.0,1.5,0.6,0.2,0.1,.577,.632,.429,.462,0.2,.098
+452,1989,NBA,2,34,MIN,Gary Leonard\leonaga01,22.137,C,us,University of Missouri,1990,1992,31,4.8,1.4,1.1,0.1,0.1,0.3,.459,.472,.000,.500,0.1,.029
+453,1990,NBA,2,28,GSW,Les Jepsen\jepsele01,23.009,C,us,University of Iowa,1991,1992,52,3.7,1.0,1.3,0.0,0.0,0.2,.333,.345,.000,.650,0.1,.031
+454,1991,NBA,2,32,PHO,Chad Gallagher\gallach01,22.032,C,us,Creighton University,1994,1994,2,1.5,3.0,0.0,0.0,0.0,0.0,1.000,1.000,,,0.1,1.442
+455,1992,NBA,2,46,DEN,Robert Werdann\werdaro01,21.291,C,us,St. John's University,1993,1997,47,5.8,2.1,1.7,0.2,0.3,0.2,.378,.381,.000,.574,0.1,.026
+456,1993,NBA,2,31,SAC,Evers Burns\burnsev01,21.316,F,us,University of Maryland,1994,1994,23,6.2,2.4,1.3,0.4,0.3,0.1,.400,.400,,.522,0.1,.020
+457,1994,NBA,2,34,ATL,Gaylon Nickerson\nickega01,25.150,G,us,Northwestern Oklahoma State University,1997,1997,4,10.5,3.8,1.3,0.3,0.3,0.3,.333,.400,.000,1.000,0.1,.076
+458,1995,NBA,2,50,GSW,Martin Lewis\lewisma01,20.066,F,us,Seward County Community College,1996,1997,25,9.6,3.6,1.4,0.3,0.4,0.2,.473,.500,.300,.593,0.1,.026
+459,1996,NBA,2,43,PHO,Ben Davis\davisbe01,23.188,F,us,University of Arizona,1997,2000,40,3.9,1.4,1.3,0.1,0.2,0.1,.356,.356,,.462,0.1,.040
+460,1997,NBA,2,34,DAL,Bubba Wells\wellsbu01,22.340,F,us,Austin Peay State University,1998,1998,39,10.1,3.3,1.7,0.9,0.4,0.1,.414,.427,.167,.721,0.1,.013
+461,1997,NBA,2,46,ORL,Eric Washington\washier01,23.100,G,us,University of Alabama,1998,1999,104,22.1,6.9,2.1,1.0,0.8,0.4,.402,.431,.346,.757,0.1,.002
+462,1998,NBA,2,40,DET,Korleone Young\youngko01,19.180,F,us,,1999,1999,3,5.0,4.3,1.3,0.3,0.0,0.0,.500,.667,.250,1.000,0.1,.280
+463,1998,NBA,2,47,TOR,Tyson Wheeler\wheelty01,22.265,G,us,University of Rhode Island,1999,1999,1,3.0,4.0,0.0,2.0,0.0,0.0,1.000,,1.000,.500,0.1,1.367
+464,2000,NBA,2,50,UTA,Kaniel Dickens\dickeka01,21.348,F,us,University of Idaho,2004,2008,19,4.5,1.2,0.6,0.1,0.1,0.1,.400,.455,.333,.750,0.1,.055
+465,2000,NBA,2,51,MIN,Igor Rakocevic\rakocig01,22.097,G,rs,,2003,2003,42,5.8,1.9,0.4,0.8,0.1,0.0,.379,.370,.417,.806,0.1,.022
+466,2001,NBA,2,48,MEM,Antonis Fotsis\fotsian01,20.092,F,gr,,2002,2002,28,11.4,3.9,2.2,0.4,0.3,0.4,.404,.432,.304,.850,0.1,.017
+467,2001,NBA,2,57,PHI,Alvin Jones\jonesal01,22.297,C,lu,Georgia Institute of Technology,2002,2002,23,5.5,1.1,1.6,0.1,0.1,0.4,.400,.400,,.500,0.1,.034
+468,2002,NBA,2,58,SAC,Corsley Edwards\edwarco01,23.119,F,us,Central Connecticut State University,2005,2005,10,11.0,2.7,2.5,0.3,0.3,0.4,.323,.323,,.583,0.1,.026
+469,2003,NBA,2,48,NOH,James Lang\langja01,19.257,C,us,,2007,2007,11,5.0,1.0,1.0,0.2,0.0,0.3,.444,.444,,.600,0.1,.047
+470,2004,NBA,2,35,SEA,Andre Emmett\emmetan01,21.307,F,us,Texas Tech University,2005,2012,14,5.2,1.4,0.6,0.1,0.1,0.1,.462,.500,.000,.615,0.1,.040
+471,2004,NBA,2,36,ORL,Antonio Burks\burksan01,24.126,G,us,University of Memphis,2005,2006,81,9.7,2.3,0.6,1.3,0.4,0.0,.387,.401,.235,.571,0.1,.004
+472,2005,NBA,2,58,TOR,Uros Slokar\slokaur01,22.051,F,si,,2007,2007,20,3.6,1.9,0.7,0.1,0.1,0.1,.538,.542,.500,.692,0.1,.042
+473,2006,NBA,2,46,UTA,Dee Brown\brownde03,21.320,G,us,University of Illinois at Urbana-Champaign,2007,2009,68,10.5,2.1,1.0,1.8,0.5,0.1,.340,.389,.250,.643,0.1,.008
+474,2007,NBA,2,42,POR,Derrick Byars\byarsde01,23.069,F,us,Vanderbilt University,2012,2012,2,18.5,5.0,5.5,0.5,1.0,0.0,.273,.600,.000,1.000,0.1,.147
+475,2010,NBA,2,57,IND,Ryan Reid\reidry01,23.243,F,us,Florida State University,2012,2012,5,3.4,1.6,0.4,0.0,0.0,0.0,.800,.800,,,0.1,.142
+476,2011,NBA,2,47,LAC,Travis Leslie\leslitr01,21.091,G,us,University of Georgia,2012,2012,10,4.5,1.4,0.9,0.5,0.2,0.2,.357,.357,,.444,0.1,.060
+477,2012,NBA,2,42,MIL,Doron Lamb\lambdo01,20.240,G,us,University of Kentucky,2013,2014,100,12.7,3.5,1.0,0.8,0.2,0.0,.381,.372,.394,.700,0.1,.005
+478,2013,NBA,2,46,UTA,Erick Green\greener01,22.055,G,us,Virginia Polytechnic Institute and State University,2015,2016,52,8.7,3.1,0.7,0.8,0.3,0.0,.377,.415,.288,.857,0.1,.011
+479,2014,NBA,2,48,MIL,Lamar Patterson\pattela01,22.324,G-F,us,University of Pittsburgh,2016,2017,40,10.9,2.3,1.4,1.1,0.3,0.1,.326,.450,.236,.720,0.1,.006
+480,2014,NBA,2,55,MIA,Semaj Christon\chrisse01,21.242,G,us,Xavier University,2017,2017,64,15.2,2.9,1.4,2.0,0.4,0.1,.345,.406,.190,.548,0.1,.006
+481,2016,NBA,2,37,HOU,Chinanu Onuaku\onuakch01,19.239,F-C,us,University of Louisville,2017,2018,6,12.3,3.0,2.3,0.7,0.5,0.2,.583,.583,,1.000,0.1,.043
+482,2016,NBA,2,45,BOS,Demetrius Jackson\jacksde01,21.295,G,us,University of Notre Dame,2017,2018,20,4.9,1.3,0.8,0.6,0.3,0.1,.455,.571,.250,.500,0.1,.029
+483,2016,NBA,2,56,DEN,Daniel Hamilton\hamilda02,20.325,G-F,us,University of Connecticut,2018,2018,6,4.7,2.0,0.8,1.3,0.2,0.0,.455,.500,.400,,0.1,.169
+484,2017,NBA,2,42,UTA,Thomas Bryant\bryanth01,19.331,C,us,Indiana University,2018,2018,15,4.8,1.5,1.1,0.4,0.1,0.1,.381,.636,.100,.556,0.1,.050
+485,2017,NBA,2,47,IND,Ike Anigbogu\anigbik01,18.248,F-C,us,University of California Los Angeles,2018,2018,11,2.7,1.2,0.8,0.0,0.1,0.3,.444,.444,,.833,0.1,.165
+486,1985,NBA,2,36,NJN,Yvon Joseph\josepyv01,27.237,C,ht,Georgia Institute of Technology,1986,1986,1,5.0,2.0,0.0,0.0,0.0,0.0,,,,1.000,0.0,.309
+487,1985,NBA,2,43,DEN,Barry Stevens\steveba01,22.158,G-F,us,Iowa State University,1993,1993,2,3.0,1.0,1.0,0.0,0.0,0.0,.500,.500,,,0.0,.157
+488,1986,NBA,2,32,ATL,Cedric Henderson\hendece01,20.262,F,us,University of Georgia,1987,1987,8,2.0,1.4,1.0,0.0,0.0,0.0,.500,.500,,1.000,0.0,-0.015
+489,1986,NBA,2,45,MIL,Keith Smith\smithke03,22.105,G,us,Loyola Marymount University,1987,1987,42,11.0,3.3,0.8,1.0,0.6,0.1,.380,.383,.333,.750,0.0,-0.003
+490,1987,NBA,2,31,DEN,Andre Moore\moorean01,22.360,F,us,Loyola University of Chicago,1988,1988,10,5.0,2.4,1.4,0.6,0.2,0.1,.333,.333,,.750,0.0,-0.013
+491,1988,NBA,2,40,MIA,Orlando Graham\grahaor01,23.060,F,us,Auburn University at Montgomery,1989,1989,7,3.1,1.1,1.6,0.0,0.0,0.0,.300,.300,,.500,0.0,-0.047
+492,1988,NBA,2,41,GSW,Keith Smart\smartke01,23.286,G,us,Indiana University,1989,1989,2,6.0,1.0,0.5,1.0,0.0,0.0,.000,.000,.000,1.000,0.0,-0.175
+493,1989,NBA,2,29,CHH,Dyron Nix\nixdy01,22.142,F,us,University of Tennessee,1990,1990,20,5.5,2.0,1.3,0.3,0.2,0.1,.359,.359,,.688,0.0,-0.015
+494,1989,NBA,2,30,MIL,Frank Kornet\kornefr01,22.157,F,us,Vanderbilt University,1990,1991,89,6.7,1.9,1.1,0.3,0.2,0.0,.369,.399,.263,.596,0.0,-0.004
+495,1989,NBA,2,33,LAC,Jay Edwards\edwarja02,20.180,G,us,Indiana University,1990,1990,4,6.5,1.8,0.5,1.0,0.3,0.0,.429,.600,.000,.333,0.0,.022
+496,1989,NBA,2,46,PHO,Ricky Blanton\blantri01,23.073,F,us,Louisiana State University,1993,1993,2,6.5,3.0,1.5,0.5,1.0,0.0,.429,.429,,,0.0,.088
+497,1991,NBA,2,34,MIN,Myron Brown\brownmy01,21.240,G,us,Slippery Rock University of Pennsylvania,1992,1992,4,5.8,2.3,0.8,1.5,0.3,0.0,.667,1.000,.333,,0.0,.032
+498,1992,NBA,2,37,MIA,Isaiah Morris\morriis01,23.089,F,us,University of Arkansas,1993,1993,25,4.1,2.2,0.5,0.2,0.1,0.0,.456,.456,,.750,0.0,-0.022
+499,1992,NBA,2,48,PHO,Brian Davis\davisbr02,22.009,F-G,us,Duke University,1994,1994,68,5.5,1.9,0.8,0.3,0.2,0.1,.317,.317,.333,.735,0.0,.000
+500,1992,NBA,2,52,CHI,Matt Steigenga\steigma01,22.095,F,us,Michigan State University,1997,1997,2,6.0,1.5,1.5,1.0,0.5,0.5,.250,.500,.000,.500,0.0,-0.126
+501,1993,NBA,2,35,MIA,Ed Stokes\stokeed01,21.306,C,us,University of Arizona,1998,1998,4,4.3,0.8,1.0,0.3,0.3,0.5,.333,.333,,.500,0.0,-0.077
+502,1993,NBA,2,42,SEA,Adonis Jordan\jordaad01,22.319,G,us,University of Kansas,1994,1999,10,9.7,2.1,0.6,2.2,0.3,0.1,.296,.333,.250,.500,0.0,-0.015
+503,1993,NBA,2,46,HOU,Richard Petruska\petruri01,24.162,C-F,sk,University of California Los Angeles,1994,1994,22,4.2,2.4,1.4,0.0,0.1,0.1,.435,.419,.467,.750,0.0,-0.014
+504,1993,NBA,2,48,POR,Kevin Thompson\thompke01,22.149,C-F,us,North Carolina State University,1994,1994,14,4.1,0.9,0.9,0.2,0.0,0.1,.429,.462,.000,.500,0.0,-0.016
+505,1994,NBA,2,40,MIA,Jeff Webster\webstje01,23.136,F,us,University of Oklahoma,1996,1996,11,5.3,1.6,0.6,0.3,0.4,0.0,.348,.353,.333,,0.0,-0.030
+506,1994,NBA,2,50,PHO,Charles Claxton\claxtch01,23.204,C,vi,University of Georgia,1996,1996,3,2.3,0.7,0.7,0.0,0.0,0.3,.500,.500,,.000,0.0,-0.179
+507,1995,NBA,2,30,DET,Lou Roe\roelo01,22.354,F,us,University of Massachusetts Amherst,1996,1997,66,7.3,2.0,1.4,0.3,0.2,0.1,.333,.347,.250,.647,0.0,-0.001
+508,1995,NBA,2,35,TOR,Jimmy King\kingji02,21.328,G,us,University of Michigan,1996,1997,64,13.9,4.5,1.8,1.4,0.4,0.2,.429,.471,.147,.691,0.0,.001
+509,1995,NBA,2,36,VAN,Lawrence Moten\motenla01,23.100,G,us,Syracuse University,1996,1998,119,15.2,6.3,1.5,1.5,0.6,0.3,.408,.450,.299,.652,0.0,.001
+510,1995,NBA,2,37,LAL,Frankie King\kingfr01,23.027,G,us,Western Carolina University,1996,1997,13,6.1,2.1,1.2,0.5,0.5,0.0,.357,.360,.333,.750,0.0,.025
+511,1995,NBA,2,40,GSW,Dwayne Whitfield\whitfdw01,22.316,F,us,Jackson State University,1996,1996,8,15.3,5.0,3.1,0.3,0.4,0.3,.433,.433,,.636,0.0,.010
+512,1996,NBA,2,41,SAC,Jason Sasser\sasseja01,22.170,F,us,Texas Tech University,1997,1999,14,7.7,2.1,1.1,0.3,0.4,0.0,.412,.419,.333,.500,0.0,-0.014
+513,1996,NBA,2,53,MIL,Jeff Nordgaard\nordgje01,23.129,F,us,University of Wisconsin-Green Bay,1998,1998,13,3.7,1.4,1.1,0.2,0.2,0.0,.278,.278,,.889,0.0,.043
+514,1997,NBA,2,32,DEN,James Cotton\cottoja02,21.199,G,us,California State University Long Beach,1998,1999,19,4.8,2.6,0.8,0.0,0.2,0.1,.359,.438,.000,.778,0.0,.008
+515,1997,NBA,2,36,PHI,James Collins\collija01,23.238,G,us,Florida State University,1998,1998,23,4.5,2.6,0.6,0.1,0.3,0.1,.382,.343,.450,.571,0.0,.008
+516,1999,NBA,2,45,SAC,Ryan Robertson\roberry01,22.276,G,us,University of Kansas,2000,2000,1,25.0,5.0,0.0,0.0,0.0,0.0,.333,.500,.000,1.000,0.0,-0.022
+517,1999,NBA,2,49,CHI,Lari Ketner\ketnela01,22.154,F-C,us,University of Massachusetts Amherst,2000,2001,25,5.6,1.4,1.4,0.1,0.2,0.1,.406,.406,,.667,0.0,-0.015
+518,2000,NBA,2,53,DEN,Dan McClintock\mcclida01,23.076,C,us,Northern Arizona University,2001,2001,6,9.7,3.0,2.8,0.2,0.0,0.3,.500,.500,,.000,0.0,.007
+519,2001,NBA,2,33,MEM,Will Solomon\solomwi01,22.348,G,us,Clemson University,2002,2009,115,13.8,5.1,1.1,2.0,0.5,0.1,.378,.439,.298,.692,0.0,.000
+520,2001,NBA,2,41,IND,Jamison Brewer\breweja01,20.225,G,us,Auburn University,2002,2005,54,8.7,1.6,0.9,1.0,0.4,0.0,.372,.435,.250,.393,0.0,-0.001
+521,2001,NBA,2,49,MIA,Ken Johnson\johnske03,23.152,F-C,us,Ohio State University,2003,2003,16,9.8,2.0,2.0,0.0,0.1,0.8,.405,.405,,.333,0.0,-0.002
+522,2002,NBA,2,32,MEM,Robert Archibald\archiro01,22.094,F,gb,University of Illinois at Urbana-Champaign,2003,2004,44,7.5,1.2,1.6,0.4,0.3,0.1,.283,.283,,.429,0.0,-0.004
+523,2002,NBA,2,38,HOU,Tito Maddox\maddoti01,21.024,G,us,California State University Fresno,2003,2003,9,3.9,1.2,0.8,0.6,0.3,0.1,.250,.333,.000,.625,0.0,-0.011
+524,2002,NBA,2,48,MIL,Chris Owens\owensch01,23.123,F,us,University of Texas at Austin,2003,2003,1,6.0,4.0,1.0,0.0,0.0,0.0,.667,.667,,,0.0,-0.032
+525,2002,NBA,2,57,SAS,Randy Holcomb\holcora01,22.328,F,us,San Diego State University,2006,2006,4,2.8,0.5,0.3,0.0,0.0,0.0,1.000,1.000,,,0.0,.150
+526,2003,NBA,2,33,MIA,Jerome Beasley\beaslje01,23.045,F,us,University of North Dakota,2004,2004,2,2.5,1.0,0.5,0.0,0.0,0.0,.333,.333,,,0.0,-0.117
+527,2003,NBA,2,39,NYK,Slavko Vranes\vranesl01,20.152,C,rs,,2004,2004,1,3.0,0.0,0.0,0.0,0.0,0.0,.000,.000,,,0.0,-0.371
+528,2003,NBA,2,40,GSW,Derrick Zimmerman\zimmede01,21.211,G,us,Mississippi State University,2006,2006,2,16.0,2.0,2.0,3.5,0.0,0.0,.667,.667,,,0.0,.004
+529,2004,NBA,2,31,CHI,Jackson Vroman\vromaja01,23.024,F-C,us,Iowa State University,2005,2006,87,12.8,3.3,3.0,0.6,0.4,0.3,.408,.412,.000,.580,0.0,.001
+530,2004,NBA,2,32,WAS,Peter John Ramos\ramospe01,19.047,C,pr,,2005,2005,6,3.3,1.8,0.7,0.0,0.0,0.2,.500,.500,,.500,0.0,-0.108
+531,2004,NBA,2,55,HOU,Luis Flores\florelu01,23.080,G,do,Manhattan College,2005,2005,16,4.8,2.2,0.2,0.7,0.1,0.0,.483,.474,.500,1.000,0.0,-0.020
+532,2005,NBA,2,44,ORL,Martynas Andriuskevicius\andrima01,19.113,C,lt,,2006,2006,6,1.5,0.0,0.7,0.0,0.3,0.0,.000,.000,,,0.0,.155
+533,2005,NBA,2,51,UTA,Robert Whaley\whalero01,23.079,C,us,Walsh University,2006,2006,23,9.2,2.1,1.9,0.7,0.3,0.3,.404,.404,,.500,0.0,.004
+534,2006,NBA,2,38,GSW,Kosta Perovic\perovko01,21.134,C,hr,,2008,2008,7,5.4,1.4,1.9,0.1,0.0,0.3,.300,.300,,.667,0.0,.060
+535,2006,NBA,2,52,LAC,Guillermo Diaz\diazgu01,21.121,G,pr,University of Miami,2008,2008,6,3.0,0.8,0.3,0.2,0.0,0.0,.250,.333,.000,.600,0.0,.033
+536,2007,NBA,2,36,GSW,Jermareo Davidson\davidje01,22.230,F,us,University of Alabama,2008,2009,52,8.3,3.1,1.8,0.3,0.2,0.3,.425,.425,,.578,0.0,.000
+537,2007,NBA,2,51,CHI,JamesOn Curry\curryja01,21.177,G,us,Oklahoma State University,2010,2010,1,0.0,0.0,0.0,0.0,0.0,0.0,,,,,0.0,
+538,2008,NBA,2,39,CHI,Sonny Weems\weemsso01,21.359,G-F,us,University of Arkansas,2009,2016,183,18.2,6.5,2.2,1.4,0.5,0.2,.465,.487,.283,.702,0.0,.001
+539,2008,NBA,2,42,SAC,Sean Singletary\singlse01,22.299,G,us,University of Virginia,2009,2009,37,8.2,2.4,0.9,0.8,0.3,0.0,.365,.350,.400,.857,0.0,.006
+540,2008,NBA,2,58,LAL,Joe Crawford\crawfjo01,22.015,F,us,University of Kentucky,2009,2009,2,11.5,4.5,2.0,0.5,0.5,0.0,.300,.333,.250,1.000,0.0,.037
+541,2009,NBA,2,48,PHO,Taylor Griffin\griffta01,23.074,F,us,University of Oklahoma,2010,2010,8,4.0,1.3,0.3,0.1,0.0,0.3,.400,.500,.000,.500,0.0,-0.039
+542,2010,NBA,2,46,PHO,Gani Lawal\lawalga01,21.234,F,us,Georgia Institute of Technology,2011,2011,1,2.0,0.0,0.0,0.0,0.0,0.0,,,,,0.0,-0.009
+543,2010,NBA,2,50,DAL,Solomon Alabi\alabiso01,22.100,C,ng,Florida State University,2011,2012,26,7.0,1.5,2.3,0.2,0.2,0.4,.314,.314,,.700,0.0,.010
+544,2010,NBA,2,53,ATL,Pape Sy\sypa01,22.085,F,fr,,2011,2011,3,7.0,2.3,1.0,0.7,0.3,0.0,.333,.400,.000,1.000,0.0,-0.047
+545,2010,NBA,2,56,MIN,Hamady N'Diaye\ndiayha01,23.169,C,sn,Rutgers University,2011,2014,33,4.8,0.6,0.8,0.1,0.1,0.3,.467,.467,,.462,0.0,.013
+546,2011,NBA,2,37,LAC,Trey Thompkins\thomptr02,21.039,F,us,University of Georgia,2012,2012,24,5.0,2.4,1.0,0.1,0.1,0.1,.393,.417,.308,.714,0.0,.004
+547,2011,NBA,2,46,LAL,Andrew Goudelock\goudean01,22.203,G,us,College of Charleston,2012,2016,49,9.7,4.0,0.7,0.5,0.2,0.0,.393,.429,.345,.875,0.0,.003
+548,2011,NBA,2,48,ATL,Keith Benson\bensoke02,22.319,C,us,Oakland University,2012,2012,3,3.0,0.0,1.0,0.0,0.0,0.0,.000,.000,,,0.0,-0.005
+549,2013,NBA,2,33,CLE,Carrick Felix\felixca01,22.320,G,us,Arizona State University,2014,2014,7,5.4,2.7,0.9,0.6,0.0,0.0,.500,.556,.400,.750,0.0,.057
+550,2013,NBA,2,41,MEM,Jamaal Franklin\frankja01,21.347,G,us,San Diego State University,2014,2015,24,7.3,1.8,1.0,0.4,0.2,0.1,.415,.393,.462,1.000,0.0,-0.006
+551,2013,NBA,2,42,PHI,Pierre Jackson\jackspi01,21.308,G,us,Baylor University,2017,2017,8,10.5,4.4,1.1,2.4,0.3,0.0,.333,.357,.273,.857,0.0,.021
+552,2014,NBA,2,51,NYK,Thanasis Antetokounmpo\antetth01,21.349,F,gr,,2016,2016,2,3.0,3.0,0.5,0.0,0.0,0.0,.750,1.000,.000,,0.0,.291
+553,2015,NBA,2,56,NOP,Branden Dawson\dawsobr01,22.149,F,us,Michigan State University,2016,2016,6,4.8,0.8,0.7,0.0,0.0,0.2,.400,.400,,1.000,0.0,.069
+554,2016,NBA,2,41,ORL,Stephen Zimmerman\zimmest01,19.292,C,us,University of Nevada Las Vegas,2017,2017,19,5.7,1.2,1.8,0.2,0.1,0.3,.323,.323,,.600,0.0,-0.005
+555,2016,NBA,2,46,DAL,A.J. Hammons\hammoaj01,23.306,C,us,Purdue University,2017,2017,22,7.4,2.2,1.6,0.2,0.0,0.6,.405,.375,.500,.450,0.0,-0.001
+556,2016,NBA,2,55,BRK,Marcus Paige\paigema01,22.291,G,us,University of North Carolina,2018,2018,5,5.6,2.4,0.8,0.6,0.0,0.0,.286,.333,.250,1.000,0.0,-0.006
+557,2017,NBA,2,52,NOP,Edmond Sumner\sumneed01,21.179,G,us,Xavier University,2018,2018,1,2.0,2.0,1.0,0.0,0.0,0.0,1.000,1.000,,,0.0,.425
+558,1985,NBA,2,29,SAS,Mike Brittain\brittmi01,22.003,C,us,University of South Carolina,1986,1987,38,6.5,1.7,1.4,0.2,0.1,0.3,.500,.500,,.524,-0.1,-0.011
+559,1985,NBA,2,32,PHO,Nick Vanos\vanosni01,22.072,C,us,Santa Clara University,1986,1987,68,12.4,3.3,3.5,0.9,0.3,0.4,.383,.386,.000,.561,-0.1,-0.007
+560,1985,NBA,2,44,PHI,Voise Winters\wintevo01,22.255,F,us,Bradley University,1986,1986,4,4.3,1.5,0.8,0.0,0.3,0.0,.231,.250,.000,,-0.1,-0.355
+561,1987,NBA,2,25,NYK,Ron Moore\moorero01,25.163,C,us,West Virginia State University,1988,1988,14,4.2,1.7,0.6,0.1,0.4,0.0,.310,.310,,.750,-0.1,-0.074
+562,1987,NBA,2,27,SAS,Nate Blackwell\blackna01,22.132,G,us,Temple University,1988,1988,10,11.2,3.7,0.6,1.8,0.3,0.0,.366,.433,.182,.833,-0.1,-0.045
+563,1987,NBA,2,30,POR,Nikita Wilson\wilsoni01,23.123,F,us,Louisiana State University,1988,1988,15,3.6,1.3,0.7,0.2,0.0,0.0,.304,.304,,.833,-0.1,-0.099
+564,1987,NBA,2,41,CLE,Kannard Johnson\johnska01,22.003,F,us,Western Kentucky University,1988,1988,4,3.0,0.5,0.0,0.0,0.3,0.0,.333,.333,,,-0.1,-0.238
+565,1988,NBA,2,30,DET,Fennis Dembo\dembofe01,22.161,F,us,University of Wyoming,1989,1989,31,2.4,1.2,0.7,0.2,0.0,0.0,.333,.368,.000,.800,-0.1,-0.037
+566,1988,NBA,2,43,DEN,Todd Mitchell\mitchto01,21.343,F,us,Purdue University,1989,1989,24,14.7,5.1,2.1,0.9,0.7,0.1,.443,.443,,.578,-0.1,-0.008
+567,1989,NBA,2,45,MIA,Scott Haffner\haffnsc01,23.151,G,us,University of Evansville,1990,1991,50,12.2,4.3,1.1,1.8,0.3,0.1,.403,.433,.130,.667,-0.1,-0.012
+568,1990,NBA,2,33,UTA,Walter Palmer\palmewa01,21.252,C-F,us,Dartmouth College,1991,1993,48,4.4,2.1,1.4,0.2,0.1,0.2,.412,.416,.000,.667,-0.1,-0.013
+569,1990,NBA,2,41,ATL,Steve Bardo\bardost01,22.088,G,us,University of Illinois at Urbana-Champaign,1992,1996,33,9.1,2.2,1.8,1.3,0.4,0.1,.329,.360,.100,.696,-0.1,-0.020
+570,1990,NBA,2,50,PHO,Milos Babic\babicmi01,21.221,C-F,rs,Tennessee Technological University,1991,1992,21,4.1,1.8,1.0,0.5,0.1,0.0,.375,.375,,.650,-0.1,-0.028
+571,1990,NBA,2,52,CLE,Stefano Rusconi\ruscost01,21.273,C-F,it,,1996,1996,7,4.3,1.1,0.9,0.4,0.0,0.3,.333,.333,,.400,-0.1,-0.104
+572,1993,NBA,2,34,GSW,Darnell Mee\meeda01,22.145,G,us,Western Kentucky University,1994,1995,40,7.3,1.9,0.9,0.5,0.4,0.3,.312,.348,.222,.444,-0.1,-0.020
+573,1995,NBA,2,55,GSW,Michael McDonald\mcdonmi01,26.141,C,us,University of New Orleans,1998,1998,1,4.0,0.0,1.0,0.0,0.0,0.0,,,,,-0.1,-0.638
+574,1995,NBA,2,57,ATL,Cuonzo Martin\marticu01,23.284,G-F,us,Purdue University,1996,1997,7,4.6,1.3,0.4,0.4,0.1,0.0,.250,.000,.600,.000,-0.1,-0.151
+575,1996,NBA,2,51,VAN,Chris Robinson\robinch01,22.091,G,us,Western Kentucky University,1997,1998,76,14.4,4.6,1.5,1.4,0.6,0.2,.376,.378,.374,.571,-0.1,-0.003
+576,1997,NBA,2,45,WAS,God Shammgod\shammgo01,21.062,G,us,Providence College,1998,1998,20,7.3,3.1,0.4,1.8,0.4,0.1,.328,.339,.000,.767,-0.1,-0.049
+577,1998,NBA,2,37,PHI,Casey Shaw\shawca01,22.345,C,us,University of Toledo,1999,1999,9,1.6,0.2,0.3,0.0,0.0,0.0,.125,.125,,,-0.1,-0.498
+578,1998,NBA,2,38,NYK,DeMarco Johnson\johnsde02,22.267,F,us,University of North Carolina at Charlotte,2000,2000,5,7.4,1.2,1.4,0.0,0.2,0.0,.333,.333,,,-0.1,-0.091
+579,1998,NBA,2,42,ORL,Miles Simon\simonmi01,22.221,G,se,University of Arizona,1999,1999,5,3.8,0.4,0.4,0.0,0.2,0.0,.200,.333,.000,,-0.1,-0.289
+580,1999,NBA,2,30,LAL,John Celestand\celesjo01,22.121,G,us,Villanova University,2000,2000,16,11.6,2.3,0.7,1.3,0.4,0.0,.333,.361,.222,.833,-0.1,-0.038
+581,2000,NBA,2,35,WAS,Mike Smith\smithmi03,24.080,F,us,University of Louisiana at Monroe,2001,2001,17,10.6,3.0,1.3,0.6,0.3,0.2,.322,.390,.167,.625,-0.1,-0.033
+582,2001,NBA,2,32,ORL,Omar Cook\cookom01,19.155,G,us,St. John's University,2004,2005,22,9.7,1.7,0.6,2.1,0.7,0.0,.333,.370,.000,.500,-0.1,-0.021
+583,2004,NBA,2,50,DAL,Vassilis Spanoulis\spanova01,21.327,G,gr,,2007,2007,31,8.8,2.7,0.7,0.9,0.2,0.0,.319,.419,.172,.810,-0.1,-0.010
+584,2006,NBA,2,51,LAL,Cheikh Samb\sambch01,21.254,C,sn,,2008,2009,22,5.2,1.0,1.4,0.0,0.2,0.5,.250,.273,.000,.444,-0.1,-0.056
+585,2006,NBA,2,60,DET,Will Blalock\blalowi01,22.299,G,us,Iowa State University,2007,2007,14,11.9,1.8,1.1,1.2,0.4,0.0,.300,.320,.200,1.000,-0.1,-0.032
+586,2007,NBA,2,33,SAS,Marcus Williams\willima04,20.227,F,us,University of Arizona,2008,2009,13,3.0,1.1,0.9,0.2,0.1,0.1,.318,.318,,,-0.1,-0.084
+587,2007,NBA,2,40,LAL,Sun Yue\yuesu01,21.239,G,cn,,2009,2009,10,2.8,0.6,0.0,0.2,0.1,0.1,.273,.600,.000,,-0.1,-0.226
+588,2007,NBA,2,52,POR,Taurean Green\greenta01,20.217,G,us,University of Florida,2008,2008,17,4.4,1.6,0.6,0.6,0.1,0.0,.280,.357,.182,.917,-0.1,-0.066
+589,2008,NBA,2,32,SEA,Walter Sharpe\sharpwa01,21.349,F,us,University of Alabama at Birmingham,2009,2009,8,2.5,1.0,0.4,0.0,0.0,0.3,.364,.444,.000,.000,-0.1,-0.131
+590,2008,NBA,2,43,SAC,Patrick Ewing\ewingpa02,24.043,F,us,Georgetown University,2011,2011,7,2.7,0.4,0.3,0.3,0.0,0.1,.000,.000,.000,.750,-0.1,-0.158
+591,2009,NBA,2,35,DET,DaJuan Summers\summeda01,21.158,F,us,Georgetown University,2010,2013,83,9.9,3.3,1.0,0.3,0.2,0.1,.384,.392,.367,.642,-0.1,-0.008
+592,2010,NBA,2,31,NJN,Tibor Pleiss\pleisti01,20.239,C,de,,2016,2016,12,6.8,2.0,1.3,0.2,0.1,0.2,.440,.478,.000,1.000,-0.1,-0.041
+593,2010,NBA,2,34,POR,Armon Johnson\johnsar02,21.126,G,us,University of Nevada Reno,2011,2012,47,8.5,3.3,1.0,1.2,0.2,0.0,.458,.465,.400,.679,-0.1,-0.015
+594,2011,NBA,2,35,SAC,Tyler Honeycutt\honeyty01,20.348,F,us,University of California Los Angeles,2012,2013,24,5.0,1.2,1.0,0.4,0.2,0.2,.314,.333,.200,.714,-0.1,-0.049
+595,2012,NBA,2,38,DEN,Quincy Miller\millequ01,19.227,F,us,Baylor University,2013,2015,69,13.5,4.3,2.4,0.5,0.4,0.5,.350,.383,.292,.706,-0.1,-0.003
+596,2012,NBA,2,51,BOS,Kris Joseph\josepkr01,23.199,F,ca,Syracuse University,2013,2013,10,5.4,0.9,0.7,0.1,0.3,0.0,.143,.182,.000,.625,-0.1,-0.127
+597,2013,NBA,2,40,POR,Grant Jerrett\jerregr01,19.359,F,us,University of Arizona,2015,2015,8,6.4,2.0,1.1,0.4,0.3,0.3,.269,.545,.067,1.000,-0.1,-0.128
+598,2013,NBA,2,49,CHI,Erik Murphy\murpher01,22.250,F,fr,University of Florida,2014,2014,24,2.6,0.3,0.3,0.1,0.0,0.2,.231,.300,.000,,-0.1,-0.055
+599,2013,NBA,2,52,MIN,Lorenzo Brown\brownlo01,22.311,G,us,North Carolina State University,2014,2018,77,12.6,3.1,1.6,2.0,0.6,0.1,.375,.466,.154,.684,-0.1,-0.003
+600,2014,NBA,2,31,MIL,Damien Inglis\inglida01,19.042,F,gf,,2016,2016,20,7.8,1.8,1.6,0.5,0.3,0.2,.351,.417,.231,.875,-0.1,-0.024
+601,2014,NBA,2,42,HOU,Nick Johnson\johnsni01,21.191,G,us,University of Arizona,2015,2015,28,9.4,2.6,1.4,0.4,0.3,0.1,.347,.389,.238,.680,-0.1,-0.020
+602,2014,NBA,2,49,CHI,Cameron Bairstow\bairsca01,23.207,F-C,au,University of New Mexico,2015,2016,36,4.6,1.2,1.0,0.2,0.1,0.1,.296,.306,.200,.846,-0.1,-0.021
+603,2016,NBA,2,40,NOP,Diamond Stone\stonedi01,19.138,C,us,University of Maryland,2017,2017,7,3.4,1.4,0.9,0.0,0.0,0.1,.231,.231,,1.000,-0.1,-0.211
+604,2016,NBA,2,48,CHI,Paul Zipser\zipsepa01,22.131,G-F,de,,2017,2018,98,17.0,4.7,2.6,0.8,0.4,0.3,.371,.402,.335,.758,-0.1,-0.002
+605,2016,NBA,2,49,DET,Michael Gbinije\gbinimi01,24.024,G,us,Syracuse University,2017,2017,9,3.6,0.4,0.3,0.2,0.0,0.0,.100,.167,.000,1.000,-0.1,-0.136
+606,2016,NBA,2,51,BOS,Ben Bentil\bentibe01,21.092,F,gh,Providence College,2017,2017,3,3.3,0.0,0.7,0.0,0.0,0.0,.000,.000,.000,,-0.1,-0.473
+607,2016,NBA,2,58,BOS,Abdel Nader\naderab01,22.277,F,eg,Iowa State University,2018,2018,48,10.9,3.0,1.5,0.5,0.3,0.2,.336,.321,.354,.590,-0.1,-0.014
+608,2017,NBA,2,40,NOP,Dwayne Bacon\bacondw01,21.302,G,us,Florida State University,2018,2018,53,13.5,3.3,2.3,0.7,0.3,0.0,.375,.409,.256,.800,-0.1,-0.007
+609,2017,NBA,2,53,BOS,Kadeem Allen\allenka01,24.164,G,us,University of Arizona,2018,2018,18,5.9,1.1,0.6,0.7,0.2,0.1,.273,.545,.000,.778,-0.1,-0.039
+610,1986,NBA,2,47,NYK,Michael Jackson\jacksmi02,21.344,G,us,Georgetown University,1988,1990,89,10.0,2.1,0.8,2.2,0.3,0.1,.369,.387,.273,.675,-0.2,-0.011
+611,1987,NBA,2,28,CHI,Rickie Winslow\winslri01,22.336,F,us,University of Houston,1988,1988,7,6.4,1.0,1.0,0.3,0.1,0.0,.231,.250,.000,.500,-0.2,-0.165
+612,1988,NBA,2,26,POR,Rolando Ferreira\ferrero01,24.041,C,br,University of Houston,1989,1989,12,2.8,0.8,1.1,0.1,0.0,0.1,.056,.056,,.875,-0.2,-0.352
+613,1991,NBA,2,30,ATL,Rodney Monroe\monroro01,23.076,G,us,North Carolina State University,1992,1992,38,8.2,3.4,0.9,0.7,0.3,0.1,.368,.402,.222,.826,-0.2,-0.035
+614,1995,NBA,2,31,CHI,Dragan Tarlac\tarladr01,22.055,C,rs,,2001,2001,43,13.9,2.4,2.8,0.7,0.2,0.4,.394,.394,,.758,-0.2,-0.016
+615,1995,NBA,2,32,WSB,Terrence Rencher\renchte01,22.134,G,us,University of Texas at Austin,1996,1996,36,11.3,2.9,1.2,1.5,0.4,0.1,.330,.338,.310,.674,-0.2,-0.021
+616,1995,NBA,2,33,BOS,Junior Burrough\burroju01,22.166,F,us,University of Virginia,1996,1996,61,8.1,3.1,1.8,0.2,0.2,0.2,.376,.376,,.656,-0.2,-0.018
+617,1998,NBA,2,56,VAN,J.R. Henderson\hendejr01,21.242,F,us,University of California Los Angeles,1999,1999,30,11.0,3.2,1.6,0.7,0.3,0.1,.365,.363,.400,.556,-0.2,-0.025
+618,1999,NBA,2,39,CLE,A.J. Bramlett\bramlaj01,22.176,C,us,University of Arizona,2000,2000,8,7.6,1.0,2.8,0.0,0.1,0.0,.190,.190,,,-0.2,-0.129
+619,2000,NBA,2,39,NYK,Lavor Postell\postela01,22.128,G,us,St. John's University,2001,2003,61,7.3,3.2,0.7,0.2,0.2,0.0,.335,.364,.250,.795,-0.2,-0.025
+620,2000,NBA,2,52,MIA,Ernest Brown\browner01,21.048,C,us,Indian Hills Community College,2002,2002,3,7.0,1.0,2.0,0.0,0.0,0.3,.167,.167,,.250,-0.2,-0.349
+621,2001,NBA,2,36,CLE,Jeff Trepagnier\trepaje01,21.357,G,us,University of Southern California,2002,2004,31,8.7,2.8,1.4,0.7,0.6,0.1,.337,.318,.462,.700,-0.2,-0.038
+622,2003,NBA,2,30,NYK,Maciej Lampe\lampema01,18.145,C,pl,,2004,2006,64,9.9,3.4,2.2,0.3,0.1,0.2,.407,.413,.250,.676,-0.2,-0.014
+623,2003,NBA,2,58,DET,Andreas Glyniadakis\glynian01,21.314,C,gr,,2007,2007,13,6.2,1.3,0.6,0.1,0.0,0.0,.471,.471,,.500,-0.2,-0.143
+624,2004,NBA,2,33,LAC,Lionel Chalmers\chalmli01,23.232,G,us,Xavier University,2005,2005,36,12.0,3.1,0.9,1.4,0.4,0.0,.336,.395,.245,.625,-0.2,-0.025
+625,2004,NBA,2,46,POR,Ha Seung-Jin\seungha01,18.329,C,kr,,2005,2006,46,6.9,1.5,1.5,0.1,0.1,0.3,.519,.519,,.500,-0.2,-0.029
+626,2005,NBA,2,41,TOR,Roko Ukic\ukicro01,21.052,G,hr,,2009,2010,85,11.6,4.0,0.9,1.9,0.4,0.0,.387,.439,.189,.746,-0.2,-0.007
+627,2005,NBA,2,43,NJN,Mile Ilic\ilicmi01,21.031,C,ba,,2007,2007,5,1.2,0.0,0.2,0.0,0.0,0.0,.000,.000,,,-0.2,-1.264
+628,2005,NBA,2,60,DET,Alex Acker\ackeral01,22.164,G,us,Pepperdine University,2006,2009,30,7.8,2.7,1.0,0.5,0.2,0.1,.370,.388,.320,.500,-0.2,-0.043
+629,2006,NBA,2,59,SAS,Damir Markota\markoda01,20.189,C,ba,,2007,2007,30,5.7,1.7,1.0,0.2,0.1,0.0,.365,.361,.375,.636,-0.2,-0.070
+630,2007,NBA,2,53,POR,Demetris Nichols\nichode01,22.302,F,us,Syracuse University,2008,2009,18,3.2,1.2,0.4,0.1,0.0,0.2,.281,.353,.200,.500,-0.2,-0.203
+631,2007,NBA,2,59,PHO,D.J. Strawberry\strawdj01,22.018,G,us,University of Maryland,2008,2008,33,8.2,2.2,0.8,0.9,0.4,0.2,.315,.343,.240,.474,-0.2,-0.031
+632,2010,NBA,2,37,MIL,Darington Hobson\hobsoda01,22.274,G,us,University of New Mexico,2012,2012,5,7.8,0.8,0.6,1.2,0.0,0.0,.154,.286,.000,,-0.2,-0.225
+633,2010,NBA,2,38,NYK,Andy Rautins\rautian01,23.240,G,us,Syracuse University,2011,2011,5,4.8,1.6,0.2,0.6,0.2,0.0,.429,.667,.250,.500,-0.2,-0.314
+634,2012,NBA,2,54,PHI,Tornike Shengelia\shengto01,20.272,F,ge,,2013,2014,45,5.5,1.3,0.9,0.4,0.1,0.0,.451,.512,.125,.500,-0.2,-0.032
+635,2013,NBA,2,35,PHI,Glen Rice\ricegl02,22.183,G,us,Georgia Institute of Technology,2014,2015,16,9.5,2.7,1.5,0.6,0.4,0.1,.269,.286,.250,.692,-0.2,-0.065
+636,2013,NBA,2,56,DET,Peyton Siva\sivape01,22.252,G,us,University of Louisville,2014,2014,24,9.3,2.3,0.6,1.4,0.4,0.0,.316,.344,.280,.733,-0.2,-0.032
+637,2014,NBA,2,47,PHI,Russ Smith\smithru01,23.074,G,us,University of Louisville,2015,2016,27,4.9,2.0,0.6,0.7,0.3,0.0,.319,.387,.188,.769,-0.2,-0.068
+638,2015,NBA,2,34,LAL,Anthony Brown\brownan02,22.263,F-G,us,Stanford University,2016,2018,41,18.6,3.9,2.5,0.7,0.5,0.1,.328,.380,.286,.850,-0.2,-0.016
+639,2017,NBA,2,39,PHI,Jawun Evans\evansja01,20.336,G,us,Oklahoma State University,2018,2018,48,16.2,4.8,1.8,2.1,0.8,0.1,.352,.372,.278,.776,-0.2,-0.011
+640,1985,NBA,2,27,IND,Dwayne McClain\mccladw01,22.137,G,us,Villanova University,1986,1986,45,10.2,3.5,0.7,1.5,0.8,0.1,.383,.398,.111,.514,-0.3,-0.026
+641,1987,NBA,2,33,CHI,Tony White\whiteto01,22.132,G,us,University of Tennessee,1988,1988,49,11.9,5.3,0.6,1.2,0.4,0.0,.446,.457,.000,.722,-0.3,-0.025
+642,1988,NBA,2,37,NYK,Greg Butler\butlegr01,22.115,C,us,Stanford University,1989,1991,55,3.8,1.4,1.0,0.1,0.0,0.0,.354,.368,.000,.714,-0.3,-0.078
+643,1989,NBA,2,51,PHO,Mike Morrison\morrimi01,21.321,G,us,Loyola College in Maryland,1990,1990,36,4.3,2.0,0.6,0.3,0.1,0.0,.338,.344,.286,.800,-0.3,-0.106
+644,1992,NBA,2,38,ATL,Elmer Bennett\benneel01,22.137,G,us,University of Notre Dame,1995,1997,21,7.6,2.3,0.5,1.0,0.4,0.0,.340,.361,.273,.722,-0.3,-0.095
+645,1993,NBA,2,40,ATL,Rich Manning\manniri01,23.013,C,us,University of Washington,1996,1997,55,9.3,3.3,1.7,0.2,0.1,0.1,.415,.416,.400,.643,-0.3,-0.028
+646,1995,NBA,2,42,ATL,Donnie Boyce\boycedo01,21.304,G,us,University of Colorado,1996,1997,30,6.5,2.6,0.8,0.5,0.4,0.2,.349,.387,.250,.500,-0.3,-0.064
+647,2002,NBA,2,54,NJN,Tamar Slay\slayta01,22.090,G,us,Marshall University,2003,2005,66,7.8,2.6,1.1,0.5,0.4,0.1,.361,.392,.265,.538,-0.3,-0.029
+648,2011,NBA,2,32,CLE,Justin Harper\harpeju01,21.302,F,us,University of Richmond,2012,2017,22,6.8,2.0,0.8,0.2,0.1,0.1,.340,.417,.276,.333,-0.3,-0.093
+649,2011,NBA,2,41,LAL,Darius Morris\morrida01,20.176,G,us,University of Michigan,2012,2015,132,11.1,3.3,1.0,1.4,0.3,0.0,.384,.416,.322,.630,-0.3,-0.010
+650,2012,NBA,2,47,UTA,Kevin Murphy\murphke01,22.120,G,us,Tennessee Technological University,2013,2013,17,3.1,0.9,0.2,0.1,0.1,0.0,.250,.261,.200,,-0.3,-0.272
+651,2012,NBA,2,55,DAL,Darius Johnson-Odom\johnsda03,22.279,G,us,Marquette University,2013,2014,7,3.0,0.0,0.9,0.3,0.1,0.0,.000,.000,.000,.000,-0.3,-0.597
+652,2014,NBA,2,56,DEN,Roy Devyn Marble\marblde01,21.283,G-F,us,University of Iowa,2015,2016,44,10.4,2.2,1.6,0.7,0.5,0.1,.304,.377,.222,.375,-0.3,-0.028
+653,2016,NBA,2,43,HOU,Zhou Qi\qizh01,20.164,F-C,cn,,2018,2018,18,6.9,1.2,1.2,0.1,0.1,0.8,.188,.308,.105,.667,-0.3,-0.104
+654,2016,NBA,2,47,ORL,Jake Layman\laymaja01,22.114,F,us,University of Maryland,2017,2018,70,5.8,1.6,0.6,0.3,0.2,0.1,.294,.354,.239,.750,-0.3,-0.041
+655,2016,NBA,2,50,IND,Georges Niang\niangge01,23.012,F,us,Iowa State University,2017,2018,32,3.9,0.9,0.8,0.3,0.2,0.0,.277,.387,.063,.750,-0.3,-0.132
+656,2017,NBA,2,32,PHO,Davon Reed\reedda01,22.017,G,us,University of Miami,2018,2018,21,11.5,3.0,1.9,0.6,0.5,0.1,.289,.289,.289,.667,-0.3,-0.059
+657,1985,NBA,2,38,NJN,Fernando Martin\martife01,23.091,C,es,,1987,1987,24,6.1,0.9,1.2,0.4,0.3,0.0,.290,.300,.000,.364,-0.4,-0.144
+658,1987,NBA,2,38,LAC,Norris Coleman\colemno01,25.274,F,us,Kansas State University,1988,1988,29,14.9,5.3,2.8,0.4,0.4,0.2,.346,.344,.500,.556,-0.4,-0.046
+659,1988,NBA,2,31,PHI,Everette Stephens\stephev01,21.256,G,us,Purdue University,1989,1991,38,5.7,1.9,0.6,1.0,0.2,0.1,.333,.354,.200,.792,-0.4,-0.083
+660,1993,NBA,2,32,PHI,Alphonso Ford\fordal01,21.248,G,us,Mississippi Valley State University,1994,1995,11,10.4,3.2,1.8,0.9,0.3,0.0,.308,.357,.100,.500,-0.4,-0.153
+661,2008,NBA,2,55,POR,Mike Taylor\taylomi01,22.162,G,us,Iowa State University,2009,2009,51,15.1,5.7,1.7,2.1,0.7,0.0,.412,.427,.325,.691,-0.4,-0.028
+662,2016,NBA,2,54,ATL,Kay Felder\feldeka01,21.092,G,us,Oakland University,2017,2018,58,9.1,3.8,1.0,1.3,0.4,0.1,.364,.385,.268,.754,-0.4,-0.041
+663,1988,NBA,2,39,MIL,Tito Horford\horfoti01,22.166,C,do,University of Miami,1989,1994,63,6.0,1.5,1.3,0.1,0.1,0.4,.300,.300,,.628,-0.5,-0.069
+664,1990,NBA,2,32,PHI,Brian Oliver\olivebr01,22.031,G,us,Georgia Institute of Technology,1991,1998,118,10.0,3.3,1.0,1.0,0.4,0.1,.388,.397,.227,.705,-0.5,-0.020
+665,1991,NBA,2,43,GSW,Lamont Strothers\strotla01,23.052,G,us,Christopher Newport University,1992,1993,13,11.9,4.6,1.2,1.1,0.7,0.1,.329,.379,.133,.714,-0.5,-0.142
+666,1992,NBA,2,36,LAL,Duane Cooper\coopedu01,23.005,G,us,University of Southern California,1993,1994,88,8.9,2.3,0.7,2.0,0.2,0.0,.402,.444,.216,.720,-0.5,-0.032
+667,2004,NBA,2,53,MIA,Matt Freije\freijma01,22.271,F,us,Vanderbilt University,2005,2007,42,14.0,3.2,2.0,0.6,0.4,0.1,.293,.343,.224,.714,-0.6,-0.047
+668,2013,NBA,2,43,MIL,Ricky Ledo\ledori01,20.295,G,us,Providence College,2014,2015,28,9.9,3.9,1.4,0.8,0.3,0.0,.336,.321,.371,.769,-0.6,-0.096
+669,2014,NBA,2,34,NYK,Cleanthony Early\earlycl01,23.076,F,us,Wichita State University,2015,2016,56,14.3,4.3,2.2,0.8,0.5,0.3,.346,.400,.263,.750,-0.6,-0.039
+670,1998,NBA,2,35,DAL,Bruno Sundov\sundobr01,18.139,C,hr,,1999,2005,102,5.1,1.7,1.0,0.2,0.1,0.1,.356,.374,.208,.526,-0.7,-0.062
+671,2001,NBA,2,37,PHI,Damone Brown\brownda02,22.005,F,us,Syracuse University,2002,2005,39,9.0,2.8,1.3,0.5,0.1,0.2,.336,.342,.286,.667,-0.7,-0.100
+672,2005,NBA,2,53,BOS,Orien Greene\greenor01,23.150,G,us,University of Louisiana at Lafayette,2006,2011,131,11.9,2.5,1.5,1.2,0.7,0.1,.387,.420,.212,.642,-0.7,-0.022
+673,2011,NBA,2,49,MEM,Josh Selby\selbyjo01,20.093,G,us,University of Kansas,2012,2013,38,7.8,2.2,0.5,0.9,0.2,0.0,.330,.384,.143,.720,-0.7,-0.113
+674,2012,NBA,2,41,POR,Tyshawn Taylor\tayloty01,22.083,G,us,University of Kansas,2013,2014,61,8.0,2.9,0.5,0.9,0.4,0.0,.354,.353,.360,.684,-0.9,-0.088
+675,2016,NBA,2,42,UTA,Isaiah Whitehead\whiteis01,21.113,G,us,Seton Hall University,2017,2018,89,20.5,7.2,2.4,2.4,0.6,0.4,.411,.452,.305,.788,-0.9,-0.025
+676,2001,NBA,2,54,DAL,Kenny Satterfield\satteke01,20.083,G,us,University of Cincinnati,2002,2003,75,14.2,4.3,1.3,2.3,0.7,0.0,.335,.355,.218,.746,-1.1,-0.051
+677,1998,NBA,2,49,ATL,Cory Carr\carrco01,22.207,G,us,Texas Tech University,1999,1999,42,14.9,4.1,1.2,1.6,0.5,0.2,.329,.355,.167,.750,-1.2,-0.089
+678,1991,NBA,2,41,IND,Sean Green\greense01,21.149,G-F,us,Iona College,1992,1994,84,8.0,4.2,1.0,0.5,0.4,0.2,.386,.412,.246,.620,-1.3,-0.095
